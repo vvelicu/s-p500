@@ -27,9 +27,11 @@ jobs:
 
       # Runs a single command using the runners shell - Install BeautifulSoup
       - name: Install BeautifulSoup
-        run: |
-          pip3 install beautifulsoup4
-          run: pip3 install pandas
+        run: pip3 install beautifulsoup4
+          
+      # Runs a single command using the runners shell - Install pandas
+      - name: Install pandas
+        run: pip3 install pandas
 
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
