@@ -37,3 +37,9 @@ jobs:
       - name: Run a multi-line script
         run: |
           python3 SP_Scrapping.py
+          
+      - name: Push changes
+        run: |
+          git add data/*
+          git commit -m "Workflow ran today $(date)"
+          git push origin main
