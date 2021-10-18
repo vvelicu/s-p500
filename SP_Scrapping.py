@@ -37,8 +37,7 @@ for a in html_table_data:
 df = pd.DataFrame.from_records(table_data[1:len(table_data)], columns = table_head)
 
 
-df.to_excel("data/SP500_Components.xlsx")
-
+df.to_csv("data/SP500_Components.csv")
 
 ### Alternative way of pulling the data into a pandas dataframe directly:
 # read_html will provide a list of dataframes from tables
