@@ -26,10 +26,6 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-      
-    # Runs a single command using the runners shell - Removing Previous day data
-      - name: Removing Previous day data
-        run: rm ./data/SP500_Components.csv
 
       # Runs a single command using the runners shell - Install BeautifulSoup
       - name: Install BeautifulSoup
