@@ -45,5 +45,5 @@ jobs:
           git config --local user.name actions-user
           git config --local user.email "actions@github.com"
           git add data/*
-          git commit -m "Workflow ran today $(date)"
+          git commit --allow-empty -m "Workflow ran today $(date)"
           git push origin main
