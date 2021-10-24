@@ -1,2 +1,1 @@
-# s-p500
-S&amp;P 500 data
+This scope of this repository is to build an automated workflow in order to scrape the Components of the S&P 500 Index from Wikipedia (https://en.wikipedia.org/wiki/List_of_S%26P_500_companies). In the end the components are fetched in Google Sheets. Google Sheets data is used then to build a dashboard with visualizations in Google Data Studio. 
