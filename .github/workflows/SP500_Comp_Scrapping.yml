@@ -49,4 +49,4 @@ jobs:
           git add data/*
           git commit --allow-empty -m "Workflow latest running date: $(date)"
           git push origin main
-          git commit --amend -m "Workflow latest running date: $(date)"
+          git commit --allow-empty --amend -m "Workflow latest running date: $(date)"
