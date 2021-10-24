@@ -40,6 +40,15 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
+          rm .data/SP500_Components.csv
+          git config --local user.name actions-user
+          git config --local user.email "actions@github.com"
+          git add data/*
+          git commit --allow-empty -m "Delete previous day data"
+          git push origin main
+          
+      - name: Run a multi-line script
+        run: |
           python3 SP_Scrapping.py
           
       - name: Push changes
@@ -47,5 +56,5 @@ jobs:
           git config --local user.name actions-user
           git config --local user.email "actions@github.com"
           git add data/*
-          git commit --allow-empty -m "Workflow ran today $(date)"
+          git commit --allow-empty -m "Workflow latest running date: $(date)"
           git push origin main
