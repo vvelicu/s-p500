@@ -60,7 +60,7 @@
 58,BKR,Baker Hughes,reports,Energy,Oil & Gas Equipment & Services,"Houston, Texas",2017-07-07,0001701605,2017
 59,BLL,Ball Corp,reports,Materials,Metal & Glass Containers,"Broomfield, Colorado",1984-10-31,0000009389,1880
 60,BAC,Bank of America,reports,Financials,Diversified Banks,"Charlotte, North Carolina",1976-06-30,0000070858,1998 (1923 / 1874)
-61,BBWI,"Bath & Body Works, Inc.",reports,Consumer Discretionary,Specialty Stores,"Columbus, Ohio",1983-09-30,0000701985,1963
+61,BBWI,Bath & Body Works,reports,Consumer Discretionary,Specialty Stores,"Columbus, Ohio",1983-09-30,0000701985,1963
 62,BAX,Baxter International,reports,Health Care,Health Care Equipment,"Deerfield, Illinois",1972-09-30,0000010456,1931
 63,BDX,Becton Dickinson,reports,Health Care,Health Care Equipment,"Franklin Lakes, New Jersey",1972-09-30,0000010795,1897
 64,BRK.B,Berkshire Hathaway,reports,Financials,Multi-Sector Holdings,"Omaha, Nebraska",2010-02-16,0001067983,1839
@@ -84,7 +84,7 @@
 82,CDNS,Cadence Design Systems,reports,Information Technology,Application Software,"San Jose, California",2017-09-18,0000813672,1988
 83,CZR,Caesars Entertainment,reports,Consumer Discretionary,Casinos & Gaming,"Reno, Nevada",2021-03-22,0001590895,1973
 84,CPB,Campbell Soup,reports,Consumer Staples,Packaged Foods & Meats,"Camden, New Jersey",1957-03-04,0000016732,1869
-85,COF,Capital One Financial,reports,Financials,Consumer Finance,"Tysons Corner, Virginia",1998-07-01,0000927628,1994
+85,COF,Capital One,reports,Financials,Consumer Finance,"Tysons Corner, Virginia",1998-07-01,0000927628,1994
 86,CAH,Cardinal Health,reports,Health Care,Health Care Distributors,"Dublin, Ohio",1997-05-27,0000721371,1971
 87,KMX,CarMax,reports,Consumer Discretionary,Specialty Stores,"Richmond, Virginia",2010-06-28,0001170010,1993
 88,CCL,Carnival Corporation,reports,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Miami, Florida",1998-12-22,0000815097,1972
@@ -95,15 +95,15 @@
 93,CBRE,CBRE,reports,Real Estate,Real Estate Services,"Dallas, Texas",2006-11-10,0001138118,1906
 94,CDW,CDW,reports,Information Technology,Technology Distributors,"Lincolnshire, Illinois",2019-09-23,0001402057,1984
 95,CE,Celanese,reports,Materials,Specialty Chemicals,"Irving, Texas",2018-12-24,0001306830,1918
-96,CNC,Centene Corporation,reports,Health Care,Managed Health Care,"St. Louis, Missouri",2016-03-30,0001071739,1984
+96,CNC,Centene,reports,Health Care,Managed Health Care,"St. Louis, Missouri",2016-03-30,0001071739,1984
 97,CNP,CenterPoint Energy,reports,Utilities,Multi-Utilities,"Houston, Texas",1985-07-31,0001130310,1882
 98,CDAY,Ceridian,reports,Information Technology,Application Software,"Minneapolis, Minnesota",2021-09-20,0001725057,1992
 99,CERN,Cerner,reports,Health Care,Health Care Technology,"North Kansas City, Missouri",2010-04-30,0000804753,1979
 100,CF,CF Industries,reports,Materials,Fertilizers & Agricultural Chemicals,"Deerfield, Illinois",2008-08-27,0001324404,1946
 101,CRL,Charles River Laboratories,reports,Health Care,Life Sciences Tools & Services,"Wilmington, Massachusetts",2021-05-14,0001100682,1947
-102,SCHW,Charles Schwab Corporation,reports,Financials,Investment Banking & Brokerage,"Westlake, Texas",1997-06-02,0000316709,1971
+102,SCHW,Charles Schwab,reports,Financials,Investment Banking & Brokerage,"Westlake, Texas",1997-06-02,0000316709,1971
 103,CHTR,Charter Communications,reports,Communication Services,Cable & Satellite,"Stamford, Connecticut",2016-09-08,0001091667,1993
-104,CVX,Chevron Corporation,reports,Energy,Integrated Oil & Gas,"San Ramon, California",1957-03-04,0000093410,1879
+104,CVX,Chevron,reports,Energy,Integrated Oil & Gas,"San Ramon, California",1957-03-04,0000093410,1879
 105,CMG,Chipotle Mexican Grill,reports,Consumer Discretionary,Restaurants,"Newport Beach, California",2011-04-28,0001058090,1993
 106,CB,Chubb,reports,Financials,Property & Casualty Insurance,"Zurich, Switzerland",2010-07-15,0000896159,1985
 107,CHD,Church & Dwight,reports,Consumer Staples,Household Products,"Ewing, New Jersey",2015-12-29,0000313927,1847
@@ -117,7 +117,7 @@
 115,CLX,Clorox,reports,Consumer Staples,Household Products,"Oakland, California",1969-03-31,0000021076,1913
 116,CME,CME Group,reports,Financials,Financial Exchanges & Data,"Chicago, Illinois",2006-08-11,0001156375,1848
 117,CMS,CMS Energy,reports,Utilities,Multi-Utilities,"Jackson, Michigan",1999-05-03,0000811156,1886
-118,KO,Coca-Cola Company,reports,Consumer Staples,Soft Drinks,"Atlanta, Georgia",1957-03-04,0000021344,1886
+118,KO,Coca-Cola,reports,Consumer Staples,Soft Drinks,"Atlanta, Georgia",1957-03-04,0000021344,1886
 119,CTSH,Cognizant Technology Solutions,reports,Information Technology,IT Consulting & Other Services,"Teaneck, New Jersey",2006-11-17,0001058290,1994
 120,CL,Colgate-Palmolive,reports,Consumer Staples,Household Products,"New York City, New York",1957-03-04,0000021665,1806
 121,CMCSA,Comcast,reports,Communication Services,Cable & Satellite,"Philadelphia, Pennsylvania",2002-11-19,0001166691,1963
@@ -137,7 +137,7 @@
 135,CMI,Cummins,reports,Industrials,Industrial Machinery,"Columbus, Indiana",1965-03-31,0000026172,1919
 136,CVS,CVS Health,reports,Health Care,Health Care Services,"Woonsocket, Rhode Island",1957-03-04,0000064803,1996
 137,DHI,D. R. Horton,reports,Consumer Discretionary,Homebuilding,"Arlington, Texas",2005-06-22,0000882184,1978
-138,DHR,Danaher Corporation,reports,Health Care,Health Care Equipment,"Washington, D.C.",,0000313616,1969
+138,DHR,Danaher,reports,Health Care,Health Care Equipment,"Washington, D.C.",,0000313616,1969
 139,DRI,Darden Restaurants,reports,Consumer Discretionary,Restaurants,"Orlando, Florida",,0000940944,1938
 140,DVA,DaVita,reports,Health Care,Health Care Facilities,"Denver, Colorado",2008-07-31,0000927066,1979
 141,DE,Deere & Co.,reports,Industrials,Agricultural & Farm Machinery,"Moline, Illinois",1957-03-04,0000315189,1837
@@ -169,7 +169,7 @@
 167,EIX,Edison International,reports,Utilities,Electric Utilities,"Rosemead, California",1957-03-04,0000827052,1886
 168,EW,Edwards Lifesciences,reports,Health Care,Health Care Equipment,"Irvine, California",2011-04-01,0001099800,1958
 169,EA,Electronic Arts,reports,Communication Services,Interactive Home Entertainment,"Redwood City, California",2002-07-22,0000712515,1982
-170,EMR,Emerson Electric Company,reports,Industrials,Electrical Components & Equipment,"Ferguson, Missouri",1965-03-31,0000032604,1890
+170,EMR,Emerson Electric,reports,Industrials,Electrical Components & Equipment,"Ferguson, Missouri",1965-03-31,0000032604,1890
 171,ENPH,Enphase Energy,reports,Information Technology,Electronic Components,"Fremont, California",2021-01-07,0001463101,2006
 172,ETR,Entergy,reports,Utilities,Electric Utilities,"New Orleans, Louisiana",1957-03-04,0000065984,1913
 173,EOG,EOG Resources,reports,Energy,Oil & Gas Exploration & Production,"Houston, Texas",2000-11-02,0000821189,1999
@@ -287,7 +287,7 @@
 285,LEG,Leggett & Platt,reports,Consumer Discretionary,Home Furnishings,"Carthage, Missouri",1999-10-14,0000058492,1883
 286,LDOS,Leidos,reports,Industrials,Diversified Support Services,"Reston, Virginia",2019-08-09,0001336920,1969
 287,LEN,Lennar,reports,Consumer Discretionary,Homebuilding,"Miami, Florida",2005-10-04,0000920760,1954
-288,LLY,Eli Lilly & Co,reports,Health Care,Pharmaceuticals,"Indianapolis, Indiana",1970-12-31,0000059478,1876
+288,LLY,Eli Lilly,reports,Health Care,Pharmaceuticals,"Indianapolis, Indiana",1970-12-31,0000059478,1876
 289,LNC,Lincoln National,reports,Financials,Multi-line Insurance,"Radnor, Pennsylvania",1976-06-30,0000059558,1905
 290,LIN,Linde,reports,Materials,Industrial Gases,"Guildford, England",1992-07-01,0001707925,1879
 291,LYV,Live Nation Entertainment,reports,Communication Services,Movies & Entertainment,"Beverly Hills, California",2019-12-23,0001335258,2010
@@ -311,7 +311,7 @@
 309,MCD,McDonald's,reports,Consumer Discretionary,Restaurants,"Chicago, Illinois",1970-06-30,0000063908,1940
 310,MCK,McKesson Corporation,reports,Health Care,Health Care Distributors,"Irving, Texas",,0000927653,1833
 311,MDT,Medtronic,reports,Health Care,Health Care Equipment,"Dublin, Ireland",1986-10-31,0001613103,1949
-312,MRK,Merck & Co.,reports,Health Care,Pharmaceuticals,"Kenilworth, New Jersey",1957-03-04,0000310158,1891
+312,MRK,Merck,reports,Health Care,Pharmaceuticals,"Kenilworth, New Jersey",1957-03-04,0000310158,1891
 313,MET,MetLife,reports,Financials,Life & Health Insurance,"New York City, New York",,0001099219,1868
 314,MTD,Mettler Toledo,reports,Health Care,Life Sciences Tools & Services,"Columbus, Ohio",2016-09-06,0001037646,1945
 315,MGM,MGM Resorts International,reports,Consumer Discretionary,Casinos & Gaming,"Paradise, Nevada",2017-07-26,0000789570,1986
@@ -321,11 +321,11 @@
 319,MAA,Mid-America Apartments,reports,Real Estate,Residential REITs,"Memphis, Tennessee",2016-12-02,0000912595,1977
 320,MRNA,Moderna,reports,Health Care,Biotechnology,"Cambridge, Massachusetts",2021-07-21,0001682852,2010
 321,MHK,Mohawk Industries,reports,Consumer Discretionary,Home Furnishings,"Calhoun, Georgia",2013-12-23,0000851968,1878
-322,TAP,Molson Coors Beverage Company,reports,Consumer Staples,Brewers,"Chicago, Illinois",1976-06-30,0000024545,"2005 (Molson 1786, Coors 1873)"
+322,TAP,Molson Coors,reports,Consumer Staples,Brewers,"Chicago, Illinois",1976-06-30,0000024545,"2005 (Molson 1786, Coors 1873)"
 323,MDLZ,Mondelez International,reports,Consumer Staples,Packaged Foods & Meats,"Chicago, Illinois",2012-10-02,0001103982,2012
 324,MPWR,Monolithic Power Systems,reports,Information Technology,Semiconductors,"Kirkland, Washington",2021-02-12,0001280452,1997
 325,MNST,Monster Beverage,reports,Consumer Staples,Soft Drinks,"Corona, California",2012-06-28,0000865752,2012 (1935)
-326,MCO,Moody's Corporation,reports,Financials,Financial Exchanges & Data,"New York City, New York",,0001059556,1909
+326,MCO,Moody's,reports,Financials,Financial Exchanges & Data,"New York City, New York",,0001059556,1909
 327,MS,Morgan Stanley,reports,Financials,Investment Banking & Brokerage,"New York City, New York",,0000895421,1935
 328,MOS,The Mosaic Company,reports,Materials,Fertilizers & Agricultural Chemicals,"Tampa, Florida",2011-09-26,0001285785,2004 (1865 / 1909)
 329,MSI,Motorola Solutions,reports,Information Technology,Communications Equipment,"Chicago, Illinois",,0000068505,1928 (2011)
@@ -435,7 +435,7 @@
 433,TROW,T. Rowe Price,reports,Financials,Asset Management & Custody Banks,"Baltimore, Maryland",,0001113169,1937
 434,TTWO,Take-Two Interactive,reports,Communication Services,Interactive Home Entertainment,"New York City, New York",2018-03-19,0000946581,1993
 435,TPR,Tapestry,reports,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","New York City, New York",,0001116132,2017
-436,TGT,Target Corporation,reports,Consumer Discretionary,General Merchandise Stores,"Minneapolis, Minnesota",1976-12-31,0000027419,1902
+436,TGT,Target,reports,Consumer Discretionary,General Merchandise Stores,"Minneapolis, Minnesota",1976-12-31,0000027419,1902
 437,TEL,TE Connectivity,reports,Information Technology,Electronic Manufacturing Services,"Schaffhausen, Switzerland",2011-10-17,0001385157,2007
 438,TDY,Teledyne Technologies,reports,Industrials,Aerospace & Defense,"Thousand Oaks, California",2020-06-22,0001094285,1960
 439,TFX,Teleflex,reports,Health Care,Health Care Equipment,"Wayne, Pennsylvania",2019-01-18,0000096943,1943
