@@ -173,102 +173,102 @@
 171,ENPH,Enphase Energy,reports,Information Technology,Electronic Components,"Fremont, California",2021-01-07,0001463101,2006
 172,ETR,Entergy,reports,Utilities,Electric Utilities,"New Orleans, Louisiana",1957-03-04,0000065984,1913
 173,EOG,EOG Resources,reports,Energy,Oil & Gas Exploration & Production,"Houston, Texas",2000-11-02,0000821189,1999
-174,EFX,Equifax,reports,Industrials,Research & Consulting Services,"Atlanta, Georgia",1997-06-19,0000033185,1899
-175,EQIX,Equinix,reports,Real Estate,Specialized REITs,"Redwood City, California",2015-03-20,0001101239,1998
-176,EQR,Equity Residential,reports,Real Estate,Residential REITs,"Chicago, Illinois",2001-12-03,0000906107,1969
-177,ESS,Essex Property Trust,reports,Real Estate,Residential REITs,"San Mateo, California",2014-04-02,0000920522,1971
-178,EL,Estée Lauder Companies,reports,Consumer Staples,Personal Products,"New York City, New York",2006-01-05,0001001250,1946
-179,ETSY,Etsy,reports,Consumer Discretionary,Internet & Direct Marketing Retail,"New York City, New York",2020-09-21,0001370637,2005
-180,EVRG,Evergy,reports,Utilities,Electric Utilities,"Kansas City, Missouri",2018-06-05,0001711269,1909
-181,ES,Eversource Energy,reports,Utilities,Multi-Utilities,"Hartford, Connecticut",,0000072741,1966
-182,RE,Everest Re,reports,Financials,Reinsurance,"Hamilton, Bermuda",2017-06-19,0001095073,1973
-183,EXC,Exelon,reports,Utilities,Multi-Utilities,"Chicago, Illinois",1957-03-04,0001109357,2000
-184,EXPE,Expedia Group,reports,Consumer Discretionary,Internet & Direct Marketing Retail,"Seattle, Washington",2007-10-02,0001324424,1996
-185,EXPD,Expeditors,reports,Industrials,Air Freight & Logistics,"Seattle, Washington",2007-10-10,0000746515,1979
-186,EXR,Extra Space Storage,reports,Real Estate,Specialized REITs,"Salt Lake City, Utah",2016-01-19,0001289490,1977
-187,XOM,ExxonMobil,reports,Energy,Integrated Oil & Gas,"Irving, Texas",1957-03-04,0000034088,1999
-188,FFIV,F5,reports,Information Technology,Communications Equipment,"Seattle, Washington",2010-12-20,0001048695,1996
-189,FAST,Fastenal,reports,Industrials,Building Products,"Winona, Minnesota",2008-09-15,0000815556,1967
-190,FRT,Federal Realty Investment Trust,reports,Real Estate,Retail REITs,"Rockville, Maryland",2016-02-01,0000034903,1962
-191,FDX,FedEx,reports,Industrials,Air Freight & Logistics,"Memphis, Tennessee",1980-12-31,0001048911,1971
-192,FIS,Fidelity National Information Services,reports,Information Technology,Data Processing & Outsourced Services,"Jacksonville, Florida",2006-11-10,0001136893,1968
-193,FITB,Fifth Third Bancorp,reports,Financials,Regional Banks,"Cincinnati, Ohio",,0000035527,1858
-194,FE,FirstEnergy,reports,Utilities,Electric Utilities,"Akron, Ohio",,0001031296,1997
-195,FRC,First Republic Bank,reports,Financials,Regional Banks,"San Francisco, California",2019-01-02,0001132979,1985
-196,FISV,Fiserv,reports,Information Technology,Data Processing & Outsourced Services,"Brookfield, Wisconsin",2001-04-02,0000798354,1984
-197,FLT,Fleetcor,reports,Information Technology,Data Processing & Outsourced Services,"Norcross, Georgia",2018-06-20,0001175454,2000
-198,FMC,FMC Corporation,reports,Materials,Fertilizers & Agricultural Chemicals,"Philadelphia, Pennsylvania",2009-08-19,0000037785,1883
-199,F,Ford,reports,Consumer Discretionary,Automobile Manufacturers,"Dearborn, Michigan",1957-03-04,0000037996,1903
-200,FTNT,Fortinet,reports,Information Technology,Systems Software,"Sunnyvale, California",2018-10-11,0001262039,2000
-201,FTV,Fortive,reports,Industrials,Industrial Machinery,"Everett, Washington",2016-07-01,0001659166,2016
-202,FBHS,Fortune Brands Home & Security,reports,Industrials,Building Products,"Deerfield, Illinois",2016-06-22,0001519751,2011 (1969)
-203,FOXA,Fox Corporation (Class A),reports,Communication Services,Movies & Entertainment,"New York City, New York",2013-07-01,0001754301,2019
-204,FOX,Fox Corporation (Class B),reports,Communication Services,Movies & Entertainment,"New York City, New York",2015-09-18,0001754301,2019
-205,BEN,Franklin Resources,reports,Financials,Asset Management & Custody Banks,"San Mateo, California",,0000038777,1947
-206,FCX,Freeport-McMoRan,reports,Materials,Copper,"Phoenix, Arizona",,0000831259,1912
-207,GPS,Gap,reports,Consumer Discretionary,Apparel Retail,"San Francisco, California",1986-08-31,0000039911,1969
-208,GRMN,Garmin,reports,Consumer Discretionary,Consumer Electronics,"Schaffhausen, Switzerland",2012-12-12,0001121788,1989
-209,IT,Gartner,reports,Information Technology,IT Consulting & Other Services,"Stamford, Connecticut",2017-04-05,0000749251,1979
-210,GNRC,Generac Holdings,reports,Industrials,Electrical Components & Equipment,"Waukesha, Wisconsin",2021-03-22,0001474735,1959
-211,GD,General Dynamics,reports,Industrials,Aerospace & Defense,"Falls Church, Virginia",1957-03-04,0000040533,1899
-212,GE,General Electric,reports,Industrials,Industrial Conglomerates,"Boston, Massachusetts",,0000040545,1892
-213,GIS,General Mills,reports,Consumer Staples,Packaged Foods & Meats,"Golden Valley, Minnesota",1969-03-31,0000040704,1856
-214,GM,General Motors,reports,Consumer Discretionary,Automobile Manufacturers,"Detroit, Michigan",2013-06-06,0001467858,1908
-215,GPC,Genuine Parts,reports,Consumer Discretionary,Specialty Stores,"Atlanta, Georgia",1973-12-31,0000040987,1925
-216,GILD,Gilead Sciences,reports,Health Care,Biotechnology,"Foster City, California",2004-07-01,0000882095,1987
-217,GL,Globe Life,reports,Financials,Life & Health Insurance,"McKinney, Texas",1989-04-30,0000320335,1900
-218,GPN,Global Payments,reports,Information Technology,Data Processing & Outsourced Services,"Atlanta, Georgia",2016-04-25,0001123360,2000
-219,GS,Goldman Sachs,reports,Financials,Investment Banking & Brokerage,"New York City, New York",2002-07-22,0000886982,1869
-220,GWW,W. W. Grainger,reports,Industrials,Industrial Machinery,"Lake Forest, Illinois",1981-06-30,0000277135,1927
-221,HAL,Halliburton,reports,Energy,Oil & Gas Equipment & Services,"Houston, Texas",1957-03-04,0000045012,1919
-222,HBI,Hanesbrands,reports,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Winston-Salem, North Carolina",2015-03-20,0001359841,2000
-223,HIG,The Hartford,reports,Financials,Property & Casualty Insurance,"Hartford, Connecticut",1957-03-04,0000874766,1810
-224,HAS,Hasbro,reports,Consumer Discretionary,Leisure Products,"Pawtucket, Rhode Island",1984-09-30,0000046080,1923
-225,HCA,HCA Healthcare,reports,Health Care,Health Care Facilities,"Nashville, Tennessee",2015-01-27,0000860730,1968
-226,PEAK,Healthpeak Properties,reports,Real Estate,Health Care REITs,"Long Beach, California",2008-03-31,0000765880,1985
-227,HSIC,Henry Schein,reports,Health Care,Health Care Distributors,"Melville, New York",2015-03-17,0001000228,1932
-228,HSY,The Hershey Company,reports,Consumer Staples,Packaged Foods & Meats,"Hershey, Pennsylvania",1957-03-04,0000047111,1894
-229,HES,Hess Corporation,reports,Energy,Integrated Oil & Gas,"New York City, New York",1984-05-31,0000004447,1919
-230,HPE,Hewlett Packard Enterprise,reports,Information Technology,"Technology Hardware, Storage & Peripherals","Houston, Texas",2015-11-02,0001645590,2015
-231,HLT,Hilton Worldwide,reports,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Tysons Corner, Virginia",2017-06-19,0001585689,1919
-232,HOLX,Hologic,reports,Health Care,Health Care Equipment,"Marlborough, Massachusetts",2016-03-30,0000859737,1985
-233,HD,Home Depot,reports,Consumer Discretionary,Home Improvement Retail,"Atlanta, Georgia",1988-03-31,0000354950,1978
-234,HON,Honeywell,reports,Industrials,Industrial Conglomerates,"Charlotte, North Carolina",1964-03-31,0000773840,1906
-235,HRL,Hormel,reports,Consumer Staples,Packaged Foods & Meats,"Austin, Minnesota",2009-03-04,0000048465,1891
-236,HST,Host Hotels & Resorts,reports,Real Estate,Hotel & Resort REITs,"Bethesda, Maryland",2007-03-20,0001070750,1993
-237,HWM,Howmet Aerospace,reports,Industrials,Aerospace & Defense,"Pittsburgh, Pennsylvania",1964-03-31,0000004281,2016
-238,HPQ,HP,reports,Information Technology,"Technology Hardware, Storage & Peripherals","Palo Alto, California",1974-12-31,0000047217,1939 (2015)
-239,HUM,Humana,reports,Health Care,Managed Health Care,"Louisville, Kentucky",,0000049071,1961
-240,HBAN,Huntington Bancshares,reports,Financials,Regional Banks,"Columbus, Ohio; Detroit, Michigan",,0000049196,1866
-241,HII,Huntington Ingalls Industries,reports,Industrials,Aerospace & Defense,"Newport News, Virginia",2018-01-03,0001501585,2011
-242,IEX,IDEX Corporation,reports,Industrials,Industrial Machinery,"Lake Forest, Illinois",2019-08-09,0000832101,1988
-243,IDXX,Idexx Laboratories,reports,Health Care,Health Care Equipment,"Westbrook, Maine",2017-01-05,0000874716,1983
-244,INFO,IHS Markit,reports,Industrials,Research & Consulting Services,"London, England",2017-06-02,0001598014,1959
-245,ITW,Illinois Tool Works,reports,Industrials,Industrial Machinery,"Glenview, Illinois",1986-02-28,0000049826,1912
-246,ILMN,Illumina,reports,Health Care,Life Sciences Tools & Services,"San Diego, California",2015-11-19,0001110803,1998
-247,INCY,Incyte,reports,Health Care,Biotechnology,"Wilmington, Delaware",2017-02-28,0000879169,1991
-248,IR,Ingersoll Rand,reports,Industrials,Industrial Machinery,"Milwaukee, Wisconsin",2020-03-03,0001699150,1859
-249,INTC,Intel,reports,Information Technology,Semiconductors,"Santa Clara, California",1976-12-31,0000050863,1968
-250,ICE,Intercontinental Exchange,reports,Financials,Financial Exchanges & Data,"Atlanta, Georgia",2007-09-26,0001571949,2000
-251,IBM,IBM,reports,Information Technology,IT Consulting & Other Services,"Armonk, New York",1957-03-04,0000051143,1911
-252,IP,International Paper,reports,Materials,Paper Packaging,"Memphis, Tennessee",1957-03-04,0000051434,1898
-253,IPG,Interpublic Group,reports,Communication Services,Advertising,"New York City, New York",1992-10-01,0000051644,1961 (1930)
-254,IFF,International Flavors & Fragrances,reports,Materials,Specialty Chemicals,"New York City, New York",1976-03-31,0000051253,1958 (1889)
-255,INTU,Intuit,reports,Information Technology,Application Software,"Mountain View, California",2000-12-05,0000896878,1983
-256,ISRG,Intuitive Surgical,reports,Health Care,Health Care Equipment,"Sunnyvale, California",2008-06-02,0001035267,1995
-257,IVZ,Invesco,reports,Financials,Asset Management & Custody Banks,"Atlanta, Georgia",2008-08-21,0000914208,1935
-258,IPGP,IPG Photonics,reports,Information Technology,Electronic Manufacturing Services,"Oxford, Massachusetts",2018-03-07,0001111928,1990
-259,IQV,IQVIA,reports,Health Care,Life Sciences Tools & Services,"Durham, North Carolina",2017-08-29,0001478242,1982
-260,IRM,Iron Mountain,reports,Real Estate,Specialized REITs,"Boston, Massachusetts",2009-01-06,0001020569,1951
-261,JKHY,Jack Henry & Associates,reports,Information Technology,Data Processing & Outsourced Services,"Monett, Missouri",2018-11-13,0000779152,1976
-262,J,Jacobs Engineering Group,reports,Industrials,Construction & Engineering,"Dallas, Texas",2007-10-26,0000052988,1947
-263,JBHT,J. B. Hunt,reports,Industrials,Trucking,"Lowell, Arkansas",2015-07-01,0000728535,1961
-264,SJM,JM Smucker,reports,Consumer Staples,Packaged Foods & Meats,"Orrville, Ohio",2008-11-06,0000091419,1897
-265,JNJ,Johnson & Johnson,reports,Health Care,Pharmaceuticals,"New Brunswick, New Jersey",1973-06-30,0000200406,1886
-266,JCI,Johnson Controls,reports,Industrials,Building Products,"Cork, Ireland",2010-08-27,0000833444,1885
-267,JPM,JPMorgan Chase,reports,Financials,Diversified Banks,"New York City, New York",1975-06-30,0000019617,2000 (1799 / 1871)
-268,JNPR,Juniper Networks,reports,Information Technology,Communications Equipment,"Sunnyvale, California",2006-06-02,0001043604,1996
-269,KSU,Kansas City Southern,reports,Industrials,Railroads,"Kansas City, Missouri",2013-05-24,0000054480,1887
+174,EPAM,EPAM Systems,reports,Information Technology,IT Consulting & Other Services,"Newtown, Pennsylvania",2021-12-14,0001352010,1993
+175,EFX,Equifax,reports,Industrials,Research & Consulting Services,"Atlanta, Georgia",1997-06-19,0000033185,1899
+176,EQIX,Equinix,reports,Real Estate,Specialized REITs,"Redwood City, California",2015-03-20,0001101239,1998
+177,EQR,Equity Residential,reports,Real Estate,Residential REITs,"Chicago, Illinois",2001-12-03,0000906107,1969
+178,ESS,Essex Property Trust,reports,Real Estate,Residential REITs,"San Mateo, California",2014-04-02,0000920522,1971
+179,EL,Estée Lauder Companies,reports,Consumer Staples,Personal Products,"New York City, New York",2006-01-05,0001001250,1946
+180,ETSY,Etsy,reports,Consumer Discretionary,Internet & Direct Marketing Retail,"New York City, New York",2020-09-21,0001370637,2005
+181,EVRG,Evergy,reports,Utilities,Electric Utilities,"Kansas City, Missouri",2018-06-05,0001711269,1909
+182,ES,Eversource Energy,reports,Utilities,Multi-Utilities,"Hartford, Connecticut",,0000072741,1966
+183,RE,Everest Re,reports,Financials,Reinsurance,"Hamilton, Bermuda",2017-06-19,0001095073,1973
+184,EXC,Exelon,reports,Utilities,Multi-Utilities,"Chicago, Illinois",1957-03-04,0001109357,2000
+185,EXPE,Expedia Group,reports,Consumer Discretionary,Internet & Direct Marketing Retail,"Seattle, Washington",2007-10-02,0001324424,1996
+186,EXPD,Expeditors,reports,Industrials,Air Freight & Logistics,"Seattle, Washington",2007-10-10,0000746515,1979
+187,EXR,Extra Space Storage,reports,Real Estate,Specialized REITs,"Salt Lake City, Utah",2016-01-19,0001289490,1977
+188,XOM,ExxonMobil,reports,Energy,Integrated Oil & Gas,"Irving, Texas",1957-03-04,0000034088,1999
+189,FFIV,F5,reports,Information Technology,Communications Equipment,"Seattle, Washington",2010-12-20,0001048695,1996
+190,FAST,Fastenal,reports,Industrials,Building Products,"Winona, Minnesota",2008-09-15,0000815556,1967
+191,FRT,Federal Realty Investment Trust,reports,Real Estate,Retail REITs,"Rockville, Maryland",2016-02-01,0000034903,1962
+192,FDX,FedEx,reports,Industrials,Air Freight & Logistics,"Memphis, Tennessee",1980-12-31,0001048911,1971
+193,FIS,Fidelity National Information Services,reports,Information Technology,Data Processing & Outsourced Services,"Jacksonville, Florida",2006-11-10,0001136893,1968
+194,FITB,Fifth Third Bancorp,reports,Financials,Regional Banks,"Cincinnati, Ohio",,0000035527,1858
+195,FE,FirstEnergy,reports,Utilities,Electric Utilities,"Akron, Ohio",,0001031296,1997
+196,FRC,First Republic Bank,reports,Financials,Regional Banks,"San Francisco, California",2019-01-02,0001132979,1985
+197,FISV,Fiserv,reports,Information Technology,Data Processing & Outsourced Services,"Brookfield, Wisconsin",2001-04-02,0000798354,1984
+198,FLT,Fleetcor,reports,Information Technology,Data Processing & Outsourced Services,"Norcross, Georgia",2018-06-20,0001175454,2000
+199,FMC,FMC Corporation,reports,Materials,Fertilizers & Agricultural Chemicals,"Philadelphia, Pennsylvania",2009-08-19,0000037785,1883
+200,F,Ford,reports,Consumer Discretionary,Automobile Manufacturers,"Dearborn, Michigan",1957-03-04,0000037996,1903
+201,FTNT,Fortinet,reports,Information Technology,Systems Software,"Sunnyvale, California",2018-10-11,0001262039,2000
+202,FTV,Fortive,reports,Industrials,Industrial Machinery,"Everett, Washington",2016-07-01,0001659166,2016
+203,FBHS,Fortune Brands Home & Security,reports,Industrials,Building Products,"Deerfield, Illinois",2016-06-22,0001519751,2011 (1969)
+204,FOXA,Fox Corporation (Class A),reports,Communication Services,Movies & Entertainment,"New York City, New York",2013-07-01,0001754301,2019
+205,FOX,Fox Corporation (Class B),reports,Communication Services,Movies & Entertainment,"New York City, New York",2015-09-18,0001754301,2019
+206,BEN,Franklin Resources,reports,Financials,Asset Management & Custody Banks,"San Mateo, California",,0000038777,1947
+207,FCX,Freeport-McMoRan,reports,Materials,Copper,"Phoenix, Arizona",,0000831259,1912
+208,GPS,Gap,reports,Consumer Discretionary,Apparel Retail,"San Francisco, California",1986-08-31,0000039911,1969
+209,GRMN,Garmin,reports,Consumer Discretionary,Consumer Electronics,"Schaffhausen, Switzerland",2012-12-12,0001121788,1989
+210,IT,Gartner,reports,Information Technology,IT Consulting & Other Services,"Stamford, Connecticut",2017-04-05,0000749251,1979
+211,GNRC,Generac Holdings,reports,Industrials,Electrical Components & Equipment,"Waukesha, Wisconsin",2021-03-22,0001474735,1959
+212,GD,General Dynamics,reports,Industrials,Aerospace & Defense,"Falls Church, Virginia",1957-03-04,0000040533,1899
+213,GE,General Electric,reports,Industrials,Industrial Conglomerates,"Boston, Massachusetts",,0000040545,1892
+214,GIS,General Mills,reports,Consumer Staples,Packaged Foods & Meats,"Golden Valley, Minnesota",1969-03-31,0000040704,1856
+215,GM,General Motors,reports,Consumer Discretionary,Automobile Manufacturers,"Detroit, Michigan",2013-06-06,0001467858,1908
+216,GPC,Genuine Parts,reports,Consumer Discretionary,Specialty Stores,"Atlanta, Georgia",1973-12-31,0000040987,1925
+217,GILD,Gilead Sciences,reports,Health Care,Biotechnology,"Foster City, California",2004-07-01,0000882095,1987
+218,GL,Globe Life,reports,Financials,Life & Health Insurance,"McKinney, Texas",1989-04-30,0000320335,1900
+219,GPN,Global Payments,reports,Information Technology,Data Processing & Outsourced Services,"Atlanta, Georgia",2016-04-25,0001123360,2000
+220,GS,Goldman Sachs,reports,Financials,Investment Banking & Brokerage,"New York City, New York",2002-07-22,0000886982,1869
+221,GWW,W. W. Grainger,reports,Industrials,Industrial Machinery,"Lake Forest, Illinois",1981-06-30,0000277135,1927
+222,HAL,Halliburton,reports,Energy,Oil & Gas Equipment & Services,"Houston, Texas",1957-03-04,0000045012,1919
+223,HBI,Hanesbrands,reports,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Winston-Salem, North Carolina",2015-03-20,0001359841,2000
+224,HIG,The Hartford,reports,Financials,Property & Casualty Insurance,"Hartford, Connecticut",1957-03-04,0000874766,1810
+225,HAS,Hasbro,reports,Consumer Discretionary,Leisure Products,"Pawtucket, Rhode Island",1984-09-30,0000046080,1923
+226,HCA,HCA Healthcare,reports,Health Care,Health Care Facilities,"Nashville, Tennessee",2015-01-27,0000860730,1968
+227,PEAK,Healthpeak Properties,reports,Real Estate,Health Care REITs,"Long Beach, California",2008-03-31,0000765880,1985
+228,HSIC,Henry Schein,reports,Health Care,Health Care Distributors,"Melville, New York",2015-03-17,0001000228,1932
+229,HSY,The Hershey Company,reports,Consumer Staples,Packaged Foods & Meats,"Hershey, Pennsylvania",1957-03-04,0000047111,1894
+230,HES,Hess Corporation,reports,Energy,Integrated Oil & Gas,"New York City, New York",1984-05-31,0000004447,1919
+231,HPE,Hewlett Packard Enterprise,reports,Information Technology,"Technology Hardware, Storage & Peripherals","Houston, Texas",2015-11-02,0001645590,2015
+232,HLT,Hilton Worldwide,reports,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Tysons Corner, Virginia",2017-06-19,0001585689,1919
+233,HOLX,Hologic,reports,Health Care,Health Care Equipment,"Marlborough, Massachusetts",2016-03-30,0000859737,1985
+234,HD,Home Depot,reports,Consumer Discretionary,Home Improvement Retail,"Atlanta, Georgia",1988-03-31,0000354950,1978
+235,HON,Honeywell,reports,Industrials,Industrial Conglomerates,"Charlotte, North Carolina",1964-03-31,0000773840,1906
+236,HRL,Hormel,reports,Consumer Staples,Packaged Foods & Meats,"Austin, Minnesota",2009-03-04,0000048465,1891
+237,HST,Host Hotels & Resorts,reports,Real Estate,Hotel & Resort REITs,"Bethesda, Maryland",2007-03-20,0001070750,1993
+238,HWM,Howmet Aerospace,reports,Industrials,Aerospace & Defense,"Pittsburgh, Pennsylvania",1964-03-31,0000004281,2016
+239,HPQ,HP,reports,Information Technology,"Technology Hardware, Storage & Peripherals","Palo Alto, California",1974-12-31,0000047217,1939 (2015)
+240,HUM,Humana,reports,Health Care,Managed Health Care,"Louisville, Kentucky",,0000049071,1961
+241,HBAN,Huntington Bancshares,reports,Financials,Regional Banks,"Columbus, Ohio; Detroit, Michigan",,0000049196,1866
+242,HII,Huntington Ingalls Industries,reports,Industrials,Aerospace & Defense,"Newport News, Virginia",2018-01-03,0001501585,2011
+243,IEX,IDEX Corporation,reports,Industrials,Industrial Machinery,"Lake Forest, Illinois",2019-08-09,0000832101,1988
+244,IDXX,Idexx Laboratories,reports,Health Care,Health Care Equipment,"Westbrook, Maine",2017-01-05,0000874716,1983
+245,INFO,IHS Markit,reports,Industrials,Research & Consulting Services,"London, England",2017-06-02,0001598014,1959
+246,ITW,Illinois Tool Works,reports,Industrials,Industrial Machinery,"Glenview, Illinois",1986-02-28,0000049826,1912
+247,ILMN,Illumina,reports,Health Care,Life Sciences Tools & Services,"San Diego, California",2015-11-19,0001110803,1998
+248,INCY,Incyte,reports,Health Care,Biotechnology,"Wilmington, Delaware",2017-02-28,0000879169,1991
+249,IR,Ingersoll Rand,reports,Industrials,Industrial Machinery,"Milwaukee, Wisconsin",2020-03-03,0001699150,1859
+250,INTC,Intel,reports,Information Technology,Semiconductors,"Santa Clara, California",1976-12-31,0000050863,1968
+251,ICE,Intercontinental Exchange,reports,Financials,Financial Exchanges & Data,"Atlanta, Georgia",2007-09-26,0001571949,2000
+252,IBM,IBM,reports,Information Technology,IT Consulting & Other Services,"Armonk, New York",1957-03-04,0000051143,1911
+253,IP,International Paper,reports,Materials,Paper Packaging,"Memphis, Tennessee",1957-03-04,0000051434,1898
+254,IPG,Interpublic Group,reports,Communication Services,Advertising,"New York City, New York",1992-10-01,0000051644,1961 (1930)
+255,IFF,International Flavors & Fragrances,reports,Materials,Specialty Chemicals,"New York City, New York",1976-03-31,0000051253,1958 (1889)
+256,INTU,Intuit,reports,Information Technology,Application Software,"Mountain View, California",2000-12-05,0000896878,1983
+257,ISRG,Intuitive Surgical,reports,Health Care,Health Care Equipment,"Sunnyvale, California",2008-06-02,0001035267,1995
+258,IVZ,Invesco,reports,Financials,Asset Management & Custody Banks,"Atlanta, Georgia",2008-08-21,0000914208,1935
+259,IPGP,IPG Photonics,reports,Information Technology,Electronic Manufacturing Services,"Oxford, Massachusetts",2018-03-07,0001111928,1990
+260,IQV,IQVIA,reports,Health Care,Life Sciences Tools & Services,"Durham, North Carolina",2017-08-29,0001478242,1982
+261,IRM,Iron Mountain,reports,Real Estate,Specialized REITs,"Boston, Massachusetts",2009-01-06,0001020569,1951
+262,JKHY,Jack Henry & Associates,reports,Information Technology,Data Processing & Outsourced Services,"Monett, Missouri",2018-11-13,0000779152,1976
+263,J,Jacobs Engineering Group,reports,Industrials,Construction & Engineering,"Dallas, Texas",2007-10-26,0000052988,1947
+264,JBHT,J. B. Hunt,reports,Industrials,Trucking,"Lowell, Arkansas",2015-07-01,0000728535,1961
+265,SJM,JM Smucker,reports,Consumer Staples,Packaged Foods & Meats,"Orrville, Ohio",2008-11-06,0000091419,1897
+266,JNJ,Johnson & Johnson,reports,Health Care,Pharmaceuticals,"New Brunswick, New Jersey",1973-06-30,0000200406,1886
+267,JCI,Johnson Controls,reports,Industrials,Building Products,"Cork, Ireland",2010-08-27,0000833444,1885
+268,JPM,JPMorgan Chase,reports,Financials,Diversified Banks,"New York City, New York",1975-06-30,0000019617,2000 (1799 / 1871)
+269,JNPR,Juniper Networks,reports,Information Technology,Communications Equipment,"Sunnyvale, California",2006-06-02,0001043604,1996
 270,K,Kellogg's,reports,Consumer Staples,Packaged Foods & Meats,"Battle Creek, Michigan",1989-09-11,0000055067,1906
 271,KEY,KeyCorp,reports,Financials,Regional Banks,"Cleveland, Ohio",1994-03-01,0000091576,1825
 272,KEYS,Keysight Technologies,reports,Information Technology,Electronic Equipment & Instruments,"Santa Rosa, California",2018-11-06,0001601046,2014
