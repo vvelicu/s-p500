@@ -1,53 +1,53 @@
 ,Symbol,Security,SEC filings,GICS Sector,GICS Sub-Industry,Headquarters Location,Date first added,CIK,Founded
 0,MMM,3M,reports,Industrials,Industrial Conglomerates,"Saint Paul, Minnesota",1976-08-09,0000066740,1902
-1,ABT,Abbott,reports,Health Care,Health Care Equipment,"North Chicago, Illinois",1964-03-31,0000001800,1888
-2,ABBV,AbbVie,reports,Health Care,Pharmaceuticals,"North Chicago, Illinois",2012-12-31,0001551152,2013 (1888)
-3,ABMD,Abiomed,reports,Health Care,Health Care Equipment,"Danvers, Massachusetts",2018-05-31,0000815094,1981
-4,ACN,Accenture,reports,Information Technology,IT Consulting & Other Services,"Dublin, Ireland",2011-07-06,0001467373,1989
-5,ATVI,Activision Blizzard,reports,Communication Services,Interactive Home Entertainment,"Santa Monica, California",2015-08-31,0000718877,2008
-6,ADBE,Adobe,reports,Information Technology,Application Software,"San Jose, California",1997-05-05,0000796343,1982
-7,AMD,Advanced Micro Devices,reports,Information Technology,Semiconductors,"Santa Clara, California",,0000002488,1969
+1,AOS,A. O. Smith,reports,Industrials,Building Products,"Milwaukee, Wisconsin",2017-07-26,0000091142,1916
+2,ABT,Abbott,reports,Health Care,Health Care Equipment,"North Chicago, Illinois",1964-03-31,0000001800,1888
+3,ABBV,AbbVie,reports,Health Care,Pharmaceuticals,"North Chicago, Illinois",2012-12-31,0001551152,2013 (1888)
+4,ABMD,Abiomed,reports,Health Care,Health Care Equipment,"Danvers, Massachusetts",2018-05-31,0000815094,1981
+5,ACN,Accenture,reports,Information Technology,IT Consulting & Other Services,"Dublin, Ireland",2011-07-06,0001467373,1989
+6,ATVI,Activision Blizzard,reports,Communication Services,Interactive Home Entertainment,"Santa Monica, California",2015-08-31,0000718877,2008
+7,ADBE,Adobe,reports,Information Technology,Application Software,"San Jose, California",1997-05-05,0000796343,1982
 8,AAP,Advance Auto Parts,reports,Consumer Discretionary,Automotive Retail,"Raleigh, North Carolina",2015-07-09,0001158449,1932
-9,AES,AES Corp,reports,Utilities,Independent Power Producers & Energy Traders,"Arlington, Virginia",1998-10-02,0000874761,1981
+9,AES,AES,reports,Utilities,Independent Power Producers & Energy Traders,"Arlington, Virginia",1998-10-02,0000874761,1981
 10,AFL,Aflac,reports,Financials,Life & Health Insurance,"Columbus, Georgia",1999-05-28,0000004977,1955
 11,A,Agilent Technologies,reports,Health Care,Health Care Equipment,"Santa Clara, California",2000-06-05,0001090872,1999
-12,APD,Air Products & Chemicals,reports,Materials,Industrial Gases,"Allentown, Pennsylvania",1985-04-30,0000002969,1940
-13,AKAM,Akamai Technologies,reports,Information Technology,Internet Services & Infrastructure,"Cambridge, Massachusetts",2007-07-12,0001086222,1998
-14,ALK,Alaska Air Group,reports,Industrials,Airlines,"Seattle, Washington",2016-05-13,0000766421,1985
-15,ALB,Albemarle Corporation,reports,Materials,Specialty Chemicals,"Charlotte, North Carolina",2016-07-01,0000915913,1994
-16,ARE,Alexandria Real Estate Equities,reports,Real Estate,Office REITs,"Pasadena, California",2017-03-20,0001035443,1994
-17,ALGN,Align Technology,reports,Health Care,Health Care Supplies,"San Jose, California",2017-06-19,0001097149,1997
-18,ALLE,Allegion,reports,Industrials,Building Products,"New York City, New York",2013-12-02,0001579241,1908
-19,LNT,Alliant Energy,reports,Utilities,Electric Utilities,"Madison, Wisconsin",2016-07-01,0000352541,1917
-20,ALL,Allstate Corp,reports,Financials,Property & Casualty Insurance,"Northfield Township, Illinois",1995-07-13,0000899051,1931
-21,GOOGL,Alphabet (Class A),reports,Communication Services,Interactive Media & Services,"Mountain View, California",2014-04-03,0001652044,1998
-22,GOOG,Alphabet (Class C),reports,Communication Services,Interactive Media & Services,"Mountain View, California",2006-04-03,0001652044,1998
-23,MO,Altria Group,reports,Consumer Staples,Tobacco,"Richmond, Virginia",1957-03-04,0000764180,1985
-24,AMZN,Amazon,reports,Consumer Discretionary,Internet & Direct Marketing Retail,"Seattle, Washington",2005-11-18,0001018724,1994
-25,AMCR,Amcor,reports,Materials,Paper Packaging,"Warmley, Bristol, United Kingdom",2019-06-07,0001748790,2019 (1860)
-26,AEE,Ameren Corp,reports,Utilities,Multi-Utilities,"St. Louis, Missouri",1991-09-19,0001002910,1902
-27,AAL,American Airlines Group,reports,Industrials,Airlines,"Fort Worth, Texas",2015-03-23,0000006201,1934
-28,AEP,American Electric Power,reports,Utilities,Electric Utilities,"Columbus, Ohio",1957-03-04,0000004904,1906
-29,AXP,American Express,reports,Financials,Consumer Finance,"New York City, New York",1976-06-30,0000004962,1850
-30,AIG,American International Group,reports,Financials,Property & Casualty Insurance,"New York City, New York",1980-03-31,0000005272,1919
-31,AMT,American Tower,reports,Real Estate,Specialized REITs,"Boston, Massachusetts",2007-11-19,0001053507,1995
-32,AWK,American Water Works,reports,Utilities,Water Utilities,"Camden, New Jersey",2016-03-04,0001410636,1886
-33,AMP,Ameriprise Financial,reports,Financials,Asset Management & Custody Banks,"Minneapolis, Minnesota",2005-10-03,0000820027,1894
-34,ABC,AmerisourceBergen,reports,Health Care,Health Care Distributors,"Chesterbrook, Pennsylvania",2001-08-30,0001140859,1985
-35,AME,Ametek,reports,Industrials,Electrical Components & Equipment,"Berwyn, Pennsylvania",2013-09-23,0001037868,1930
-36,AMGN,Amgen,reports,Health Care,Biotechnology,"Thousand Oaks, California",1992-01-02,0000318154,1980
-37,APH,Amphenol,reports,Information Technology,Electronic Components,"Wallingford, Connecticut",2008-09-30,0000820313,1932
-38,ADI,Analog Devices,reports,Information Technology,Semiconductors,"Wilmington, Massachusetts",1999-10-12,0000006281,1965
-39,ANSS,Ansys,reports,Information Technology,Application Software,"Canonsburg, Pennsylvania",2017-06-19,0001013462,1969
-40,ANTM,Anthem,reports,Health Care,Managed Health Care,"Indianapolis, Indiana",2002-07-25,0001156039,2014 (1946)
-41,AON,Aon,reports,Financials,Insurance Brokers,"London, UK",1996-04-23,0000315293,1982 (1919)
-42,AOS,A. O. Smith,reports,Industrials,Building Products,"Milwaukee, Wisconsin",2017-07-26,0000091142,1916
+12,AIG,AIG,reports,Financials,Property & Casualty Insurance,"New York City, New York",1980-03-31,0000005272,1919
+13,APD,Air Products,reports,Materials,Industrial Gases,"Allentown, Pennsylvania",1985-04-30,0000002969,1940
+14,AKAM,Akamai,reports,Information Technology,Internet Services & Infrastructure,"Cambridge, Massachusetts",2007-07-12,0001086222,1998
+15,ALK,Alaska Air Group,reports,Industrials,Airlines,"Seattle, Washington",2016-05-13,0000766421,1985
+16,ALB,Albemarle,reports,Materials,Specialty Chemicals,"Charlotte, North Carolina",2016-07-01,0000915913,1994
+17,ARE,Alexandria Real Estate Equities,reports,Real Estate,Office REITs,"Pasadena, California",2017-03-20,0001035443,1994
+18,ALGN,Align Technology,reports,Health Care,Health Care Supplies,"San Jose, California",2017-06-19,0001097149,1997
+19,ALLE,Allegion,reports,Industrials,Building Products,"New York City, New York",2013-12-02,0001579241,1908
+20,LNT,Alliant Energy,reports,Utilities,Electric Utilities,"Madison, Wisconsin",2016-07-01,0000352541,1917
+21,ALL,Allstate,reports,Financials,Property & Casualty Insurance,"Northfield Township, Illinois",1995-07-13,0000899051,1931
+22,GOOGL,Alphabet (Class A),reports,Communication Services,Interactive Media & Services,"Mountain View, California",2014-04-03,0001652044,1998
+23,GOOG,Alphabet (Class C),reports,Communication Services,Interactive Media & Services,"Mountain View, California",2006-04-03,0001652044,1998
+24,MO,Altria,reports,Consumer Staples,Tobacco,"Richmond, Virginia",1957-03-04,0000764180,1985
+25,AMZN,Amazon,reports,Consumer Discretionary,Internet & Direct Marketing Retail,"Seattle, Washington",2005-11-18,0001018724,1994
+26,AMCR,Amcor,reports,Materials,Paper Packaging,"Warmley, Bristol, United Kingdom",2019-06-07,0001748790,2019 (1860)
+27,AMD,AMD,reports,Information Technology,Semiconductors,"Santa Clara, California",,0000002488,1969
+28,AEE,Ameren,reports,Utilities,Multi-Utilities,"St. Louis, Missouri",1991-09-19,0001002910,1902
+29,AAL,American Airlines Group,reports,Industrials,Airlines,"Fort Worth, Texas",2015-03-23,0000006201,1934
+30,AEP,American Electric Power,reports,Utilities,Electric Utilities,"Columbus, Ohio",1957-03-04,0000004904,1906
+31,AXP,American Express,reports,Financials,Consumer Finance,"New York City, New York",1976-06-30,0000004962,1850
+32,AMT,American Tower,reports,Real Estate,Specialized REITs,"Boston, Massachusetts",2007-11-19,0001053507,1995
+33,AWK,American Water,reports,Utilities,Water Utilities,"Camden, New Jersey",2016-03-04,0001410636,1886
+34,AMP,Ameriprise Financial,reports,Financials,Asset Management & Custody Banks,"Minneapolis, Minnesota",2005-10-03,0000820027,1894
+35,ABC,AmerisourceBergen,reports,Health Care,Health Care Distributors,"Chesterbrook, Pennsylvania",2001-08-30,0001140859,1985
+36,AME,Ametek,reports,Industrials,Electrical Components & Equipment,"Berwyn, Pennsylvania",2013-09-23,0001037868,1930
+37,AMGN,Amgen,reports,Health Care,Biotechnology,"Thousand Oaks, California",1992-01-02,0000318154,1980
+38,APH,Amphenol,reports,Information Technology,Electronic Components,"Wallingford, Connecticut",2008-09-30,0000820313,1932
+39,ADI,Analog Devices,reports,Information Technology,Semiconductors,"Wilmington, Massachusetts",1999-10-12,0000006281,1965
+40,ANSS,Ansys,reports,Information Technology,Application Software,"Canonsburg, Pennsylvania",2017-06-19,0001013462,1969
+41,ANTM,Anthem,reports,Health Care,Managed Health Care,"Indianapolis, Indiana",2002-07-25,0001156039,2014 (1946)
+42,AON,Aon,reports,Financials,Insurance Brokers,"London, UK",1996-04-23,0000315293,1982 (1919)
 43,APA,APA Corporation,reports,Energy,Oil & Gas Exploration & Production,"Houston, Texas",1997-07-28,0000006769,1954
 44,AAPL,Apple,reports,Information Technology,"Technology Hardware, Storage & Peripherals","Cupertino, California",1982-11-30,0000320193,1977
 45,AMAT,Applied Materials,reports,Information Technology,Semiconductor Equipment,"Santa Clara, California",1995-03-16,0000006951,1967
 46,APTV,Aptiv,reports,Consumer Discretionary,Auto Parts & Equipment,"Dublin, Ireland",2012-12-24,0001521332,1994
 47,ADM,ADM,reports,Consumer Staples,Agricultural Products,"Chicago, Illinois",1981-07-29,0000007084,1902
-48,ANET,Arista Networks,reports,Information Technology,Communications Equipment,"Santa Clara, California",2018-08-28,0001596532,2004
+48,ANET,Arista,reports,Information Technology,Communications Equipment,"Santa Clara, California",2018-08-28,0001596532,2004
 49,AJG,Arthur J. Gallagher & Co.,reports,Financials,Insurance Brokers,"Rolling Meadows, Illinois",2016-05-31,0000354190,1927
 50,AIZ,Assurant,reports,Financials,Multi-line Insurance,"New York City, New York",2007-04-10,0001267238,1892
 51,T,AT&T,reports,Communication Services,Integrated Telecommunication Services,"Dallas, Texas",1983-11-30 (1957-03-04),0000732717,1983 (1885)
@@ -58,14 +58,14 @@
 56,AVB,AvalonBay Communities,reports,Real Estate,Residential REITs,"Arlington, Virginia[3]",2007-01-10,0000915912,1978
 57,AVY,Avery Dennison,reports,Materials,Paper Packaging,"Glendale, California",1987-12-31,0000008818,1990
 58,BKR,Baker Hughes,reports,Energy,Oil & Gas Equipment & Services,"Houston, Texas",2017-07-07,0001701605,2017
-59,BLL,Ball Corp,reports,Materials,Metal & Glass Containers,"Broomfield, Colorado",1984-10-31,0000009389,1880
+59,BLL,Ball,reports,Materials,Metal & Glass Containers,"Broomfield, Colorado",1984-10-31,0000009389,1880
 60,BAC,Bank of America,reports,Financials,Diversified Banks,"Charlotte, North Carolina",1976-06-30,0000070858,1998 (1923 / 1874)
 61,BBWI,Bath & Body Works,reports,Consumer Discretionary,Specialty Stores,"Columbus, Ohio",1983-09-30,0000701985,1963
 62,BAX,Baxter International,reports,Health Care,Health Care Equipment,"Deerfield, Illinois",1972-09-30,0000010456,1931
 63,BDX,Becton Dickinson,reports,Health Care,Health Care Equipment,"Franklin Lakes, New Jersey",1972-09-30,0000010795,1897
 64,BRK.B,Berkshire Hathaway,reports,Financials,Multi-Sector Holdings,"Omaha, Nebraska",2010-02-16,0001067983,1839
 65,BBY,Best Buy,reports,Consumer Discretionary,Computer & Electronics Retail,"Richfield, Minnesota",1999-06-29,0000764478,1966
-66,BIO,Bio-Rad Laboratories,reports,Health Care,Life Sciences Tools & Services,"Hercules, California",2020-06-22,0000012208,1952
+66,BIO,Bio-Rad,reports,Health Care,Life Sciences Tools & Services,"Hercules, California",2020-06-22,0000012208,1952
 67,TECH,Bio-Techne,reports,Health Care,Life Sciences Tools & Services,"Minneapolis, Minnesota",2021-08-30,0000842023,1976
 68,BIIB,Biogen,reports,Health Care,Biotechnology,"Cambridge, Massachusetts",2003-11-13,0000875045,1978
 69,BLK,BlackRock,reports,Financials,Asset Management & Custody Banks,"New York City, New York",2011-04-04,0001364742,1988
@@ -77,7 +77,7 @@
 75,BSX,Boston Scientific,reports,Health Care,Health Care Equipment,"Marlborough, Massachusetts[4]",1995-02-24,0000885725,1979
 76,BMY,Bristol Myers Squibb,reports,Health Care,Health Care Distributors,"New York City, New York",1957-03-04,0000014272,1989
 77,AVGO,Broadcom,reports,Information Technology,Semiconductors,"San Jose, California",2014-05-08,0001730168,1961
-78,BR,Broadridge Financial Solutions,reports,Information Technology,Data Processing & Outsourced Services,"Lake Success, New York",2018-06-18,0001383312,1962
+78,BR,Broadridge,reports,Information Technology,Data Processing & Outsourced Services,"Lake Success, New York",2018-06-18,0001383312,1962
 79,BRO,Brown & Brown,reports,Financials,Insurance Brokers,"Daytona Beach, Florida",2021-09-20,0000079282,1939
 80,BF.B,Brown–Forman,reports,Consumer Staples,Distillers & Vintners,"Louisville, Kentucky",1982-10-31,0000014693,1870
 81,CHRW,C. H. Robinson,reports,Industrials,Air Freight & Logistics,"Eden Prairie, Minnesota",2007-03-02,0001043277,1905
@@ -109,11 +109,11 @@
 107,CHD,Church & Dwight,reports,Consumer Staples,Household Products,"Ewing, New Jersey",2015-12-29,0000313927,1847
 108,CI,Cigna,reports,Health Care,Managed Health Care,"Bloomfield, Connecticut",1976-06-30,0001739940,1982
 109,CINF,Cincinnati Financial,reports,Financials,Property & Casualty Insurance,"Fairfield, Ohio",1997-12-18,0000020286,1950
-110,CTAS,Cintas Corporation,reports,Industrials,Diversified Support Services,"Mason, Ohio",2001-03-01,0000723254,1929
-111,CSCO,Cisco Systems,reports,Information Technology,Communications Equipment,"San Jose, California",1993-12-01,0000858877,1984
+110,CTAS,Cintas,reports,Industrials,Diversified Support Services,"Mason, Ohio",2001-03-01,0000723254,1929
+111,CSCO,Cisco,reports,Information Technology,Communications Equipment,"San Jose, California",1993-12-01,0000858877,1984
 112,C,Citigroup,reports,Financials,Diversified Banks,"New York City, New York",1988-05-31,0000831001,1998
 113,CFG,Citizens Financial Group,reports,Financials,Regional Banks,"Providence, Rhode Island",2016-01-29,0000759944,1828
-114,CTXS,Citrix Systems,reports,Information Technology,Application Software,"Fort Lauderdale, Florida",1999-12-01,0000877890,1989
+114,CTXS,Citrix,reports,Information Technology,Application Software,"Fort Lauderdale, Florida",1999-12-01,0000877890,1989
 115,CLX,Clorox,reports,Consumer Staples,Household Products,"Oakland, California",1969-03-31,0000021076,1913
 116,CME,CME Group,reports,Financials,Financial Exchanges & Data,"Chicago, Illinois",2006-08-11,0001156375,1848
 117,CMS,CMS Energy,reports,Utilities,Multi-Utilities,"Jackson, Michigan",1999-05-03,0000811156,1886
@@ -124,7 +124,7 @@
 122,CMA,Comerica,reports,Financials,Diversified Banks,"Dallas, Texas",1995-12-01,0000028412,1849
 123,CAG,Conagra Brands,reports,Consumer Staples,Packaged Foods & Meats,"Chicago, Illinois",1983-08-31,0000023217,1919
 124,COP,ConocoPhillips,reports,Energy,Oil & Gas Exploration & Production,"Houston, Texas",1957-03-04,0001163165,2002
-125,ED,Consolidated Edison,reports,Utilities,Electric Utilities,"New York City, New York",,0001047862,1823
+125,ED,Con Edison,reports,Utilities,Electric Utilities,"New York City, New York",,0001047862,1823
 126,STZ,Constellation Brands,reports,Consumer Staples,Distillers & Vintners,"Victor, New York",2005-07-01,0000016918,1945
 127,COO,The Cooper Companies,reports,Health Care,Health Care Supplies,"San Ramon, California",2016-09-23,0000711404,1958
 128,CPRT,Copart,reports,Industrials,Diversified Support Services,"Dallas, Texas",2018-07-02,0000900075,1982
@@ -146,7 +146,7 @@
 144,DVN,Devon Energy,reports,Energy,Oil & Gas Exploration & Production,"Oklahoma City, Oklahoma",2000-08-30,0001090012,1971
 145,DXCM,DexCom,reports,Health Care,Health Care Equipment,"San Diego, California",2020-05-12,0001093557,1999
 146,FANG,Diamondback Energy,reports,Energy,Oil & Gas Exploration & Production,"Midland, Texas",2018-12-03,0001539838,2007
-147,DLR,Digital Realty Trust,reports,Real Estate,Specialized REITs,"Austin, Texas",2016-05-18,0001297996,2004
+147,DLR,Digital Realty,reports,Real Estate,Specialized REITs,"Austin, Texas",2016-05-18,0001297996,2004
 148,DFS,Discover Financial Services,reports,Financials,Consumer Finance,"Riverwoods, Illinois",2007-07-02,0001393612,1985
 149,DISCA,Discovery (Series A),reports,Communication Services,Broadcasting,"New York City, New York",2010-03-01,0001437107,1985
 150,DISCK,Discovery (Series C),reports,Communication Services,Broadcasting,"New York City, New York",2014-08-07,0001437107,1985
@@ -169,7 +169,7 @@
 167,EIX,Edison International,reports,Utilities,Electric Utilities,"Rosemead, California",1957-03-04,0000827052,1886
 168,EW,Edwards Lifesciences,reports,Health Care,Health Care Equipment,"Irvine, California",2011-04-01,0001099800,1958
 169,EA,Electronic Arts,reports,Communication Services,Interactive Home Entertainment,"Redwood City, California",2002-07-22,0000712515,1982
-170,EMR,Emerson Electric,reports,Industrials,Electrical Components & Equipment,"Ferguson, Missouri",1965-03-31,0000032604,1890
+170,EMR,Emerson,reports,Industrials,Electrical Components & Equipment,"Ferguson, Missouri",1965-03-31,0000032604,1890
 171,ENPH,Enphase Energy,reports,Information Technology,Electronic Components,"Fremont, California",2021-01-07,0001463101,2006
 172,ETR,Entergy,reports,Utilities,Electric Utilities,"New Orleans, Louisiana",1957-03-04,0000065984,1913
 173,EOG,EOG Resources,reports,Energy,Oil & Gas Exploration & Production,"Houston, Texas",2000-11-02,0000821189,1999
@@ -383,8 +383,8 @@
 381,PGR,Progressive Corporation,reports,Financials,Property & Casualty Insurance,"Mayfield Village, Ohio",1997-08-04,0000080661,1937
 382,PLD,Prologis,reports,Real Estate,Industrial REITs,"San Francisco, California",2003-07-17,0001045609,1983
 383,PRU,Prudential Financial,reports,Financials,Life & Health Insurance,"Newark, New Jersey",2002-07-22,0001137774,1875
-384,PTC,PTC,reports,Information Technology,Application Software,"Boston, Massachusetts",2021-04-20,0000857005,1985
-385,PEG,Public Service Enterprise Group,reports,Utilities,Electric Utilities,"Newark, New Jersey",1957-03-04,0000788784,1903
+384,PEG,PSEG,reports,Utilities,Electric Utilities,"Newark, New Jersey",1957-03-04,0000788784,1903
+385,PTC,PTC,reports,Information Technology,Application Software,"Boston, Massachusetts",2021-04-20,0000857005,1985
 386,PSA,Public Storage,reports,Real Estate,Specialized REITs,"Glendale, California",2005-08-19,0001393311,1972
 387,PHM,PulteGroup,reports,Consumer Discretionary,Homebuilding,"Atlanta, Georgia",1984-04-30,0000822416,1956
 388,PVH,PVH,reports,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","New York City, New York",2013-02-15,0000078239,1881
@@ -494,7 +494,7 @@
 492,WY,Weyerhaeuser,reports,Real Estate,Specialized REITs,"Seattle, Washington",,0000106535,1900
 493,WHR,Whirlpool Corporation,reports,Consumer Discretionary,Household Appliances,"Benton Harbor, Michigan",,0000106640,1911
 494,WMB,Williams Companies,reports,Energy,Oil & Gas Storage & Transportation,"Tulsa, Oklahoma",1975-03-31,0000107263,1908
-495,WLTW,Willis Towers Watson,reports,Financials,Insurance Brokers,"London, England",2016-01-05,0001140536,2016
+495,WTW,Willis Towers Watson,reports,Financials,Insurance Brokers,"London, England",2016-01-05,0001140536,2016
 496,WYNN,Wynn Resorts,reports,Consumer Discretionary,Casinos & Gaming,"Paradise, Nevada",2008-11-14,0001174922,2002
 497,XEL,Xcel Energy,reports,Utilities,Multi-Utilities,"Minneapolis, Minnesota",1957-03-04,0000072903,1909
 498,XLNX,Xilinx,reports,Information Technology,Semiconductors,"San Jose, California",1999-11-08,0000743988,1984
