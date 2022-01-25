@@ -100,7 +100,7 @@
 98,CDAY,Ceridian,reports,Information Technology,Application Software,"Minneapolis, Minnesota",2021-09-20,0001725057,1992
 99,CERN,Cerner,reports,Health Care,Health Care Technology,"North Kansas City, Missouri",2010-04-30,0000804753,1979
 100,CF,CF Industries,reports,Materials,Fertilizers & Agricultural Chemicals,"Deerfield, Illinois",2008-08-27,0001324404,1946
-101,CRL,Charles River Laboratories,reports,Health Care,Life Sciences Tools & Services,"Wilmington, Massachusetts",2021-05-14,0001100682,1947
+101,CRL,Charles River,reports,Health Care,Life Sciences Tools & Services,"Wilmington, Massachusetts",2021-05-14,0001100682,1947
 102,SCHW,Charles Schwab,reports,Financials,Investment Banking & Brokerage,"Westlake, Texas",1997-06-02,0000316709,1971
 103,CHTR,Charter Communications,reports,Communication Services,Cable & Satellite,"Stamford, Connecticut",2016-09-08,0001091667,1993
 104,CVX,Chevron,reports,Energy,Integrated Oil & Gas,"San Ramon, California",1957-03-04,0000093410,1879
@@ -126,7 +126,7 @@
 124,COP,ConocoPhillips,reports,Energy,Oil & Gas Exploration & Production,"Houston, Texas",1957-03-04,0001163165,2002
 125,ED,Con Edison,reports,Utilities,Electric Utilities,"New York City, New York",,0001047862,1823
 126,STZ,Constellation Brands,reports,Consumer Staples,Distillers & Vintners,"Victor, New York",2005-07-01,0000016918,1945
-127,COO,The Cooper Companies,reports,Health Care,Health Care Supplies,"San Ramon, California",2016-09-23,0000711404,1958
+127,COO,CooperCompanies,reports,Health Care,Health Care Supplies,"San Ramon, California",2016-09-23,0000711404,1958
 128,CPRT,Copart,reports,Industrials,Diversified Support Services,"Dallas, Texas",2018-07-02,0000900075,1982
 129,GLW,Corning,reports,Information Technology,Electronic Components,"Corning, New York",,0000024741,1851
 130,CTVA,Corteva,reports,Materials,Fertilizers & Agricultural Chemicals,"Wilmington, Delaware",2019-06-03,0001755672,2019
@@ -203,7 +203,7 @@
 201,F,Ford,reports,Consumer Discretionary,Automobile Manufacturers,"Dearborn, Michigan",1957-03-04,0000037996,1903
 202,FTNT,Fortinet,reports,Information Technology,Systems Software,"Sunnyvale, California",2018-10-11,0001262039,2000
 203,FTV,Fortive,reports,Industrials,Industrial Machinery,"Everett, Washington",2016-07-01,0001659166,2016
-204,FBHS,Fortune Brands Home & Security,reports,Industrials,Building Products,"Deerfield, Illinois",2016-06-22,0001519751,2011 (1969)
+204,FBHS,Fortune Brands,reports,Industrials,Building Products,"Deerfield, Illinois",2016-06-22,0001519751,2011 (1969)
 205,FOXA,Fox Corporation (Class A),reports,Communication Services,Movies & Entertainment,"New York City, New York",2013-07-01,0001754301,2019
 206,FOX,Fox Corporation (Class B),reports,Communication Services,Movies & Entertainment,"New York City, New York",2015-09-18,0001754301,2019
 207,BEN,Franklin Resources,reports,Financials,Asset Management & Custody Banks,"San Mateo, California",,0000038777,1947
