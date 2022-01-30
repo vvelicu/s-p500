@@ -191,15 +191,15 @@
 189,FFIV,F5,reports,Information Technology,Communications Equipment,"Seattle, Washington",2010-12-20,0001048695,1996
 190,FDS,FactSet,reports,Financials,Financial Exchanges & Data,"Norwalk, Connecticut",2021-12-20,0001013237,1978
 191,FAST,Fastenal,reports,Industrials,Building Products,"Winona, Minnesota",2008-09-15,0000815556,1967
-192,FRT,Federal Realty Investment Trust,reports,Real Estate,Retail REITs,"Rockville, Maryland",2016-02-01,0000034903,1962
+192,FRT,Federal Realty,reports,Real Estate,Retail REITs,"Rockville, Maryland",2016-02-01,0000034903,1962
 193,FDX,FedEx,reports,Industrials,Air Freight & Logistics,"Memphis, Tennessee",1980-12-31,0001048911,1971
-194,FIS,Fidelity National Information Services,reports,Information Technology,Data Processing & Outsourced Services,"Jacksonville, Florida",2006-11-10,0001136893,1968
-195,FITB,Fifth Third Bancorp,reports,Financials,Regional Banks,"Cincinnati, Ohio",,0000035527,1858
+194,FITB,Fifth Third Bancorp,reports,Financials,Regional Banks,"Cincinnati, Ohio",,0000035527,1858
+195,FRC,First Republic,reports,Financials,Regional Banks,"San Francisco, California",2019-01-02,0001132979,1985
 196,FE,FirstEnergy,reports,Utilities,Electric Utilities,"Akron, Ohio",,0001031296,1997
-197,FRC,First Republic Bank,reports,Financials,Regional Banks,"San Francisco, California",2019-01-02,0001132979,1985
+197,FIS,FIS,reports,Information Technology,Data Processing & Outsourced Services,"Jacksonville, Florida",2006-11-10,0001136893,1968
 198,FISV,Fiserv,reports,Information Technology,Data Processing & Outsourced Services,"Brookfield, Wisconsin",2001-04-02,0000798354,1984
 199,FLT,Fleetcor,reports,Information Technology,Data Processing & Outsourced Services,"Norcross, Georgia",2018-06-20,0001175454,2000
-200,FMC,FMC Corporation,reports,Materials,Fertilizers & Agricultural Chemicals,"Philadelphia, Pennsylvania",2009-08-19,0000037785,1883
+200,FMC,FMC,reports,Materials,Fertilizers & Agricultural Chemicals,"Philadelphia, Pennsylvania",2009-08-19,0000037785,1883
 201,F,Ford,reports,Consumer Discretionary,Automobile Manufacturers,"Dearborn, Michigan",1957-03-04,0000037996,1903
 202,FTNT,Fortinet,reports,Information Technology,Systems Software,"Sunnyvale, California",2018-10-11,0001262039,2000
 203,FTV,Fortive,reports,Industrials,Industrial Machinery,"Everett, Washington",2016-07-01,0001659166,2016
@@ -211,17 +211,17 @@
 209,GPS,Gap,reports,Consumer Discretionary,Apparel Retail,"San Francisco, California",1986-08-31,0000039911,1969
 210,GRMN,Garmin,reports,Consumer Discretionary,Consumer Electronics,"Schaffhausen, Switzerland",2012-12-12,0001121788,1989
 211,IT,Gartner,reports,Information Technology,IT Consulting & Other Services,"Stamford, Connecticut",2017-04-05,0000749251,1979
-212,GNRC,Generac Holdings,reports,Industrials,Electrical Components & Equipment,"Waukesha, Wisconsin",2021-03-22,0001474735,1959
-213,GD,General Dynamics,reports,Industrials,Aerospace & Defense,"Falls Church, Virginia",1957-03-04,0000040533,1899
-214,GE,General Electric,reports,Industrials,Industrial Conglomerates,"Boston, Massachusetts",,0000040545,1892
+212,GE,GE,reports,Industrials,Industrial Conglomerates,"Boston, Massachusetts",,0000040545,1892
+213,GNRC,Generac,reports,Industrials,Electrical Components & Equipment,"Waukesha, Wisconsin",2021-03-22,0001474735,1959
+214,GD,General Dynamics,reports,Industrials,Aerospace & Defense,"Falls Church, Virginia",1957-03-04,0000040533,1899
 215,GIS,General Mills,reports,Consumer Staples,Packaged Foods & Meats,"Golden Valley, Minnesota",1969-03-31,0000040704,1856
-216,GM,General Motors,reports,Consumer Discretionary,Automobile Manufacturers,"Detroit, Michigan",2013-06-06,0001467858,1908
-217,GPC,Genuine Parts,reports,Consumer Discretionary,Specialty Stores,"Atlanta, Georgia",1973-12-31,0000040987,1925
-218,GILD,Gilead Sciences,reports,Health Care,Biotechnology,"Foster City, California",2004-07-01,0000882095,1987
-219,GL,Globe Life,reports,Financials,Life & Health Insurance,"McKinney, Texas",1989-04-30,0000320335,1900
-220,GPN,Global Payments,reports,Information Technology,Data Processing & Outsourced Services,"Atlanta, Georgia",2016-04-25,0001123360,2000
+216,GPC,Genuine Parts,reports,Consumer Discretionary,Specialty Stores,"Atlanta, Georgia",1973-12-31,0000040987,1925
+217,GILD,Gilead Sciences,reports,Health Care,Biotechnology,"Foster City, California",2004-07-01,0000882095,1987
+218,GL,Globe Life,reports,Financials,Life & Health Insurance,"McKinney, Texas",1989-04-30,0000320335,1900
+219,GPN,Global Payments,reports,Information Technology,Data Processing & Outsourced Services,"Atlanta, Georgia",2016-04-25,0001123360,2000
+220,GM,GM,reports,Consumer Discretionary,Automobile Manufacturers,"Detroit, Michigan",2013-06-06,0001467858,1908
 221,GS,Goldman Sachs,reports,Financials,Investment Banking & Brokerage,"New York City, New York",2002-07-22,0000886982,1869
-222,GWW,W. W. Grainger,reports,Industrials,Industrial Machinery,"Lake Forest, Illinois",1981-06-30,0000277135,1927
+222,GWW,Grainger,reports,Industrials,Industrial Machinery,"Lake Forest, Illinois",1981-06-30,0000277135,1927
 223,HAL,Halliburton,reports,Energy,Oil & Gas Equipment & Services,"Houston, Texas",1957-03-04,0000045012,1919
 224,HIG,The Hartford,reports,Financials,Property & Casualty Insurance,"Hartford, Connecticut",1957-03-04,0000874766,1810
 225,HAS,Hasbro,reports,Consumer Discretionary,Leisure Products,"Pawtucket, Rhode Island",1984-09-30,0000046080,1923
