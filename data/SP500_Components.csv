@@ -184,7 +184,7 @@
 182,ETSY,Etsy,reports,Consumer Discretionary,Internet & Direct Marketing Retail,"New York City, New York",2020-09-21,0001370637,2005
 183,RE,Everest,reports,Financials,Reinsurance,"Hamilton, Bermuda",2017-06-19,0001095073,1973
 184,EVRG,Evergy,reports,Utilities,Electric Utilities,"Kansas City, Missouri",2018-06-05,0001711269,1909
-185,ES,Eversource,reports,Utilities,Multi-Utilities,"Hartford, Connecticut",,0000072741,1966
+185,ES,Eversource,reports,Utilities,Multi-Utilities,"Hartford, Connecticut",2009,0000072741,1966
 186,EXC,Exelon,reports,Utilities,Multi-Utilities,"Chicago, Illinois",1957-03-04,0001109357,2000
 187,EXPE,Expedia Group,reports,Consumer Discretionary,Internet & Direct Marketing Retail,"Seattle, Washington",2007-10-02,0001324424,1996
 188,EXPD,Expeditors,reports,Industrials,Air Freight & Logistics,"Seattle, Washington",2007-10-10,0000746515,1979
@@ -428,7 +428,7 @@
 426,SO,Southern Company,reports,Utilities,Electric Utilities,"Atlanta, Georgia",1957-03-04,0000092122,1945
 427,LUV,Southwest Airlines,reports,Industrials,Airlines,"Dallas, Texas",1994-07-01,0000092380,1967
 428,SWK,Stanley Black & Decker,reports,Industrials,Industrial Machinery,"New Britain, Connecticut",1982-09-30,0000093556,1843
-429,SBUX,Starbucks,reports,Consumer Discretionary,Restaurants,"Seattle, Washington",2007-06-07,0000829224,1971
+429,SBUX,Starbucks,reports,Consumer Discretionary,Restaurants,"Seattle, Washington",2000-06-07,0000829224,1971
 430,STT,State Street,reports,Financials,Asset Management & Custody Banks,"Boston, Massachusetts",,0000093751,1792
 431,STE,Steris,reports,Health Care,Health Care Equipment,"Dublin, Ireland",2019-12-23,0001757898,1985
 432,SYK,Stryker,reports,Health Care,Health Care Equipment,"Kalamazoo, Michigan",2000-12-12,0000310764,1941
@@ -479,7 +479,7 @@
 477,VFC,VF Corporation,reports,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Denver, Colorado",1979-06-30,0000103379,1899
 478,VTRS,Viatris,reports,Health Care,Pharmaceuticals,"Pittsburgh, Pennsylvania",2004-04-23,0001792044,1961
 479,V,Visa,reports,Information Technology,Data Processing & Outsourced Services,"San Francisco, California",2009-12-21,0001403161,1958
-480,VNO,Vornado Realty Trust,reports,Real Estate,Office REITs,"New York City, New York",,0000899689,1982
+480,VNO,Vornado Realty Trust,reports,Real Estate,Office REITs,"New York City, New York",2005,0000899689,1982
 481,VMC,Vulcan Materials,reports,Materials,Construction Materials,"Birmingham, Alabama",1999-06-30,0001396009,1909
 482,WAB,Wabtec,reports,Industrials,Construction Machinery & Heavy Trucks,"Pittsburgh, Pennsylvania",2019-02-27,0000943452,1999 (1869)
 483,WMT,Walmart,reports,Consumer Staples,Hypermarkets & Super Centers,"Bentonville, Arkansas",1982-08-31,0000104169,1962
