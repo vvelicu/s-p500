@@ -286,7 +286,7 @@
 284,LEN,Lennar,reports,Consumer Discretionary,Homebuilding,"Miami, Florida",2005-10-04,0000920760,1954
 285,LLY,Lilly,reports,Health Care,Pharmaceuticals,"Indianapolis, Indiana",1970-12-31,0000059478,1876
 286,LNC,Lincoln Financial,reports,Financials,Multi-line Insurance,"Radnor, Pennsylvania",1976-06-30,0000059558,1905
-287,LIN,Linde,reports,Materials,Industrial Gases,"Guildford, England",1992-07-01,0001707925,1879
+287,LIN,Linde,reports,Materials,Industrial Gases,"Guildford, United Kingdom",1992-07-01,0001707925,1879
 288,LYV,Live Nation Entertainment,reports,Communication Services,Movies & Entertainment,"Beverly Hills, California",2019-12-23,0001335258,2010
 289,LKQ,LKQ Corporation,reports,Consumer Discretionary,Distributors,"Chicago, Illinois",2016-05-23,0001065696,1998
 290,LMT,Lockheed Martin,reports,Industrials,Aerospace & Defense,"Bethesda, Maryland",1984-07-31,0000936468,1995
@@ -367,7 +367,7 @@
 365,PAYC,Paycom,reports,Information Technology,Application Software,"Oklahoma City, Oklahoma",2020-01-28,0001590955,1998
 366,PYPL,PayPal,reports,Information Technology,Data Processing & Outsourced Services,"San Jose, California",2015-07-20,0001633917,1998
 367,PENN,Penn National Gaming,reports,Consumer Discretionary,Casinos & Gaming,"Wyomissing, Pennsylvania",2021-03-22,0000921738,1972
-368,PNR,Pentair,reports,Industrials,Industrial Machinery,"Worsley, England",2012-10-01,0000077360,1966
+368,PNR,Pentair,reports,Industrials,Industrial Machinery,"Worsley, United Kingdom",2012-10-01,0000077360,1966
 369,PEP,PepsiCo,reports,Consumer Staples,Soft Drinks,"Purchase, New York",1957-03-04,0000077476,1898
 370,PKI,PerkinElmer,reports,Health Care,Health Care Equipment,"Waltham, Massachusetts",1985-05-31,0000031791,1937
 371,PFE,Pfizer,reports,Health Care,Pharmaceuticals,"New York City, New York",1957-03-04,0000078003,1849
@@ -494,7 +494,7 @@
 492,WY,Weyerhaeuser,reports,Real Estate,Specialized REITs,"Seattle, Washington",,0000106535,1900
 493,WHR,Whirlpool,reports,Consumer Discretionary,Household Appliances,"Benton Harbor, Michigan",,0000106640,1911
 494,WMB,Williams,reports,Energy,Oil & Gas Storage & Transportation,"Tulsa, Oklahoma",1975-03-31,0000107263,1908
-495,WTW,Willis Towers Watson,reports,Financials,Insurance Brokers,"London, England",2016-01-05,0001140536,2016
+495,WTW,Willis Towers Watson,reports,Financials,Insurance Brokers,"London, United Kingdom",2016-01-05,0001140536,2016
 496,WYNN,Wynn Resorts,reports,Consumer Discretionary,Casinos & Gaming,"Paradise, Nevada",2008-11-14,0001174922,2002
 497,XEL,Xcel Energy,reports,Utilities,Multi-Utilities,"Minneapolis, Minnesota",1957-03-04,0000072903,1909
 498,XYL,Xylem,reports,Industrials,Industrial Machinery,"White Plains, New York",2011-11-01,0001524472,2011
