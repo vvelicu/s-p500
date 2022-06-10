@@ -308,7 +308,7 @@
 306,MCK,McKesson,reports,Health Care,Health Care Distributors,"Irving, Texas",,0000927653,1833
 307,MDT,Medtronic,reports,Health Care,Health Care Equipment,"Dublin, Ireland",1986-10-31,0001613103,1949
 308,MRK,Merck,reports,Health Care,Pharmaceuticals,"Kenilworth, New Jersey",1957-03-04,0000310158,1891
-309,FB,Meta,reports,Communication Services,Interactive Media & Services,"Menlo Park, California",2013-12-23,0001326801,2004
+309,META,Meta,reports,Communication Services,Interactive Media & Services,"Menlo Park, California",2013-12-23,0001326801,2004
 310,MET,MetLife,reports,Financials,Life & Health Insurance,"New York City, New York",,0001099219,1868
 311,MTD,Mettler Toledo,reports,Health Care,Life Sciences Tools & Services,"Columbus, Ohio",2016-09-06,0001037646,1945
 312,MGM,MGM Resorts,reports,Consumer Discretionary,Casinos & Gaming,"Paradise, Nevada",2017-07-26,0000789570,1986
@@ -463,9 +463,9 @@
 461,UA,Under Armour (Class C),reports,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Baltimore, Maryland",2016-04-08,0001336917,1996
 462,UNP,Union Pacific,reports,Industrials,Railroads,"Omaha, Nebraska",1957-03-04,0000100885,1862
 463,UAL,United Airlines,reports,Industrials,Airlines,"Chicago, Illinois",2015-09-03,0000100517,1967
-464,UNH,UnitedHealth Group,reports,Health Care,Managed Health Care,"Minnetonka, Minnesota",1994-07-01,0000731766,1977
-465,UPS,United Parcel Service,reports,Industrials,Air Freight & Logistics,"Sandy Springs, Georgia",2002-07-22,0001090727,1907
-466,URI,United Rentals,reports,Industrials,Trading Companies & Distributors,"Stamford, Connecticut",2014-09-20,0001067701,1997
+464,UPS,United Parcel Service,reports,Industrials,Air Freight & Logistics,"Sandy Springs, Georgia",2002-07-22,0001090727,1907
+465,URI,United Rentals,reports,Industrials,Trading Companies & Distributors,"Stamford, Connecticut",2014-09-20,0001067701,1997
+466,UNH,UnitedHealth Group,reports,Health Care,Managed Health Care,"Minnetonka, Minnesota",1994-07-01,0000731766,1977
 467,UHS,Universal Health Services,reports,Health Care,Health Care Facilities,"King of Prussia, Pennsylvania",2014-09-20,0000352915,1979
 468,VLO,Valero,reports,Energy,Oil & Gas Refining & Marketing,"San Antonio, Texas",,0001035002,1980
 469,VTR,Ventas,reports,Real Estate,Health Care REITs,"Chicago, Illinois",2009-03-04,0000740260,1998
