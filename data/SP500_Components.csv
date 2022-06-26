@@ -212,9 +212,9 @@
 210,FCX,Freeport-McMoRan,reports,Materials,Copper,"Phoenix, Arizona",,0000831259,1912
 211,GRMN,Garmin,reports,Consumer Discretionary,Consumer Electronics,"Schaffhausen, Switzerland",2012-12-12,0001121788,1989
 212,IT,Gartner,reports,Information Technology,IT Consulting & Other Services,"Stamford, Connecticut",2017-04-05,0000749251,1979
-213,GE,GE,reports,Industrials,Industrial Conglomerates,"Boston, Massachusetts",,0000040545,1892
-214,GNRC,Generac,reports,Industrials,Electrical Components & Equipment,"Waukesha, Wisconsin",2021-03-22,0001474735,1959
-215,GD,General Dynamics,reports,Industrials,Aerospace & Defense,"Falls Church, Virginia",1957-03-04,0000040533,1899
+213,GNRC,Generac,reports,Industrials,Electrical Components & Equipment,"Waukesha, Wisconsin",2021-03-22,0001474735,1959
+214,GD,General Dynamics,reports,Industrials,Aerospace & Defense,"Falls Church, Virginia",1957-03-04,0000040533,1899
+215,GE,General Electric,reports,Industrials,Industrial Conglomerates,"Boston, Massachusetts",,0000040545,1892
 216,GIS,General Mills,reports,Consumer Staples,Packaged Foods & Meats,"Golden Valley, Minnesota",1969-03-31,0000040704,1856
 217,GM,General Motors,reports,Consumer Discretionary,Automobile Manufacturers,"Detroit, Michigan",2013-06-06,0001467858,1908
 218,GPC,Genuine Parts Company,reports,Consumer Discretionary,Specialty Stores,"Atlanta, Georgia",1973-12-31,0000040987,1925
@@ -235,13 +235,13 @@
 233,HOLX,Hologic,reports,Health Care,Health Care Equipment,"Marlborough, Massachusetts",2016-03-30,0000859737,1985
 234,HD,The Home Depot,reports,Consumer Discretionary,Home Improvement Retail,"Atlanta, Georgia",1988-03-31,0000354950,1978
 235,HON,Honeywell,reports,Industrials,Industrial Conglomerates,"Charlotte, North Carolina",1964-03-31,0000773840,1906
-236,HRL,Hormel,reports,Consumer Staples,Packaged Foods & Meats,"Austin, Minnesota",2009-03-04,0000048465,1891
+236,HRL,Hormel Foods,reports,Consumer Staples,Packaged Foods & Meats,"Austin, Minnesota",2009-03-04,0000048465,1891
 237,HST,Host Hotels & Resorts,reports,Real Estate,Hotel & Resort REITs,"Bethesda, Maryland",2007-03-20,0001070750,1993
 238,HWM,Howmet Aerospace,reports,Industrials,Aerospace & Defense,"Pittsburgh, Pennsylvania",1964-03-31,0000004281,2016
 239,HPQ,HP Inc.,reports,Information Technology,"Technology Hardware, Storage & Peripherals","Palo Alto, California",1974-12-31,0000047217,1939 (2015)
 240,HUM,Humana,reports,Health Care,Managed Health Care,"Louisville, Kentucky",,0000049071,1961
-241,HII,Huntington Ingalls Industries,reports,Industrials,Aerospace & Defense,"Newport News, Virginia",2018-01-03,0001501585,2011
-242,HBAN,Huntington National Bank,reports,Financials,Regional Banks,"Columbus, Ohio; Detroit, Michigan",,0000049196,1866
+241,HBAN,Huntington Bancshares,reports,Financials,Regional Banks,"Columbus, Ohio; Detroit, Michigan",,0000049196,1866
+242,HII,Huntington Ingalls Industries,reports,Industrials,Aerospace & Defense,"Newport News, Virginia",2018-01-03,0001501585,2011
 243,IBM,IBM,reports,Information Technology,IT Consulting & Other Services,"Armonk, New York",1957-03-04,0000051143,1911
 244,IEX,IDEX Corporation,reports,Industrials,Industrial Machinery,"Lake Forest, Illinois",2019-08-09,0000832101,1988
 245,IDXX,Idexx Laboratories,reports,Health Care,Health Care Equipment,"Westbrook, Maine",2017-01-05,0000874716,1983
@@ -298,7 +298,7 @@
 296,MKTX,MarketAxess,reports,Financials,Financial Exchanges & Data,"New York City, New York",2019-07-01,0001278021,2000
 297,MAR,Marriott International,reports,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Bethesda, Maryland",,0001048286,1927
 298,MMC,Marsh McLennan,reports,Financials,Insurance Brokers,"New York City, New York",1987-08-31,0000062709,1905
-299,MLM,Martin Marietta,reports,Materials,Construction Materials,"Raleigh, North Carolina",2014-07-02,0000916076,1993
+299,MLM,Martin Marietta Materials,reports,Materials,Construction Materials,"Raleigh, North Carolina",2014-07-02,0000916076,1993
 300,MAS,Masco,reports,Industrials,Building Products,"Livonia, Michigan",1981-06-30,0000062996,1929
 301,MA,Mastercard,reports,Information Technology,Data Processing & Outsourced Services,"Harrison, New York",2008-07-18,0001141391,1966
 302,MTCH,Match Group,reports,Communication Services,Interactive Media & Services,"Dallas, Texas",2021-09-20,0000891103,1986
@@ -338,7 +338,7 @@
 336,NLSN,Nielsen Holdings,reports,Industrials,Research & Consulting Services,"New York City, New York",2013-07-09,0001492633,1923
 337,NKE,"Nike, Inc.",reports,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Washington County, Oregon",1988-11-30,0000320187,1964
 338,NI,NiSource,reports,Utilities,Multi-Utilities,"Merrillville, Indiana",,0001111711,1912
-339,NDSN,Nordson,reports,Industrials,Industrial Machinery,"Westlake, Ohio",2022-02-15,0000072331,1935
+339,NDSN,Nordson Corporation,reports,Industrials,Industrial Machinery,"Westlake, Ohio",2022-02-15,0000072331,1935
 340,NSC,Norfolk Southern Railway,reports,Industrials,Railroads,"Norfolk, Virginia",1957-03-04,0000702165,1881/1894 (1980)
 341,NTRS,Northern Trust,reports,Financials,Asset Management & Custody Banks,"Chicago, Illinois",,0000073124,1889
 342,NOC,Northrop Grumman,reports,Industrials,Aerospace & Defense,"West Falls Church, Virginia",1985-06-30,0001133421,"1994 (Northrop 1939, Grumman 1930)"
@@ -439,7 +439,7 @@
 437,TPR,"Tapestry, Inc.",reports,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","New York City, New York",,0001116132,2017
 438,TGT,Target Corporation,reports,Consumer Discretionary,General Merchandise Stores,"Minneapolis, Minnesota",1976-12-31,0000027419,1902
 439,TEL,TE Connectivity,reports,Information Technology,Electronic Manufacturing Services,"Schaffhausen, Switzerland",2011-10-17,0001385157,2007
-440,TDY,Teledyne,reports,Industrials,Aerospace & Defense,"Thousand Oaks, California",2020-06-22,0001094285,1960
+440,TDY,Teledyne Technologies,reports,Industrials,Aerospace & Defense,"Thousand Oaks, California",2020-06-22,0001094285,1960
 441,TFX,Teleflex,reports,Health Care,Health Care Equipment,"Wayne, Pennsylvania",2019-01-18,0000096943,1943
 442,TER,Teradyne,reports,Information Technology,Semiconductor Equipment,"North Reading, Massachusetts",2020-09-21,0000097210,1960
 443,TSLA,"Tesla, Inc.",reports,Consumer Discretionary,Automobile Manufacturers,"Palo Alto, California",2020-12-21,0001318605,2003
