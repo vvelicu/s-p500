@@ -206,7 +206,7 @@
 204,F,Ford Motor Company,reports,Consumer Discretionary,Automobile Manufacturers,"Dearborn, Michigan",1957-03-04,0000037996,1903
 205,FTNT,Fortinet,reports,Information Technology,Systems Software,"Sunnyvale, California",2018-10-11,0001262039,2000
 206,FTV,Fortive,reports,Industrials,Industrial Machinery,"Everett, Washington",2016-07-01,0001659166,2016
-207,FOXA,Fox Corporation (Class A),reports,Communication Services,Movies & Entertainment,"New York City, New York",2013-07-01,0001754301,2019
+207,FOXA,Fox Corporation (Class A),reports,Communication Services,Movies & Entertainment,"New York City, New York",2019-11-03,0001754301,2019
 208,FOX,Fox Corporation (Class B),reports,Communication Services,Movies & Entertainment,"New York City, New York",2015-09-18,0001754301,2019
 209,BEN,Franklin Templeton,reports,Financials,Asset Management & Custody Banks,"San Mateo, California",,0000038777,1947
 210,FCX,Freeport-McMoRan,reports,Materials,Copper,"Phoenix, Arizona",,0000831259,1912
@@ -476,30 +476,29 @@
 474,VTRS,Viatris,reports,Health Care,Pharmaceuticals,"Pittsburgh, Pennsylvania",2004-04-23,0001792044,1961
 475,VICI,Vici Properties,reports,Real Estate,Hotel & Resort REITs,"New York City, New York",2022-06-08,0001705696,2017
 476,V,Visa Inc.,reports,Information Technology,Data Processing & Outsourced Services,"San Francisco, California",2009-12-21,0001403161,1958
-477,VNO,Vornado Realty Trust,reports,Real Estate,Office REITs,"New York City, New York",2005,0000899689,1982
-478,VMC,Vulcan Materials Company,reports,Materials,Construction Materials,"Birmingham, Alabama",1999-06-30,0001396009,1909
-479,WAB,Wabtec,reports,Industrials,Construction Machinery & Heavy Trucks,"Pittsburgh, Pennsylvania",2019-02-27,0000943452,1999 (1869)
-480,WBA,Walgreens Boots Alliance,reports,Consumer Staples,Drug Retail,"Deerfield, Illinois",1979-12-31,0001618921,2014
-481,WMT,Walmart,reports,Consumer Staples,Hypermarkets & Super Centers,"Bentonville, Arkansas",1982-08-31,0000104169,1962
-482,WBD,Warner Bros. Discovery,reports,Communication Services,Broadcasting,"New York City, New York",2022-04-11,0001437107,2022
-483,WM,Waste Management,reports,Industrials,Environmental & Facilities Services,"Houston, Texas",,0000823768,1968
-484,WAT,Waters Corporation,reports,Health Care,Health Care Distributors,"Milford, Massachusetts",,0001000697,1958
-485,WEC,WEC Energy Group,reports,Utilities,Electric Utilities,"Milwaukee, Wisconsin",2008-10-31,0000783325,1896
-486,WFC,Wells Fargo,reports,Financials,Diversified Banks,"San Francisco, California",1976-06-30,0000072971,1852
-487,WELL,Welltower,reports,Real Estate,Health Care REITs,"Toledo, Ohio",2009-01-30,0000766704,1970
-488,WST,West Pharmaceutical Services,reports,Health Care,Health Care Supplies,"Exton, Pennsylvania",2020-05-22,0000105770,1923
-489,WDC,Western Digital,reports,Information Technology,"Technology Hardware, Storage & Peripherals","San Jose, California",2009-07-01,0000106040,1970
-490,WRK,WestRock,reports,Materials,Paper Packaging,"Atlanta, Georgia",,0001732845,2015
-491,WY,Weyerhaeuser,reports,Real Estate,Specialized REITs,"Seattle, Washington",,0000106535,1900
-492,WHR,Whirlpool Corporation,reports,Consumer Discretionary,Household Appliances,"Benton Harbor, Michigan",,0000106640,1911
-493,WMB,Williams Companies,reports,Energy,Oil & Gas Storage & Transportation,"Tulsa, Oklahoma",1975-03-31,0000107263,1908
-494,WTW,Willis Towers Watson,reports,Financials,Insurance Brokers,"London, United Kingdom",2016-01-05,0001140536,2016
-495,GWW,W. W. Grainger,reports,Industrials,Industrial Machinery,"Lake Forest, Illinois",1981-06-30,0000277135,1927
-496,WYNN,Wynn Resorts,reports,Consumer Discretionary,Casinos & Gaming,"Paradise, Nevada",2008-11-14,0001174922,2002
-497,XEL,Xcel Energy,reports,Utilities,Multi-Utilities,"Minneapolis, Minnesota",1957-03-04,0000072903,1909
-498,XYL,Xylem Inc.,reports,Industrials,Industrial Machinery,"White Plains, New York",2011-11-01,0001524472,2011
-499,YUM,Yum! Brands,reports,Consumer Discretionary,Restaurants,"Louisville, Kentucky",1997-10-06,0001041061,1997
-500,ZBRA,Zebra Technologies,reports,Information Technology,Electronic Equipment & Instruments,"Lincolnshire, Illinois",2019-12-23,0000877212,1969
-501,ZBH,Zimmer Biomet,reports,Health Care,Health Care Equipment,"Warsaw, Indiana",2001-08-07,0001136869,1927
-502,ZION,Zions Bancorporation,reports,Financials,Regional Banks,"Salt Lake City, Utah",2001-06-22,0000109380,1873
-503,ZTS,Zoetis,reports,Health Care,Pharmaceuticals,"Parsippany, New Jersey",2013-06-21,0001555280,1952
+477,VMC,Vulcan Materials Company,reports,Materials,Construction Materials,"Birmingham, Alabama",1999-06-30,0001396009,1909
+478,WAB,Wabtec,reports,Industrials,Construction Machinery & Heavy Trucks,"Pittsburgh, Pennsylvania",2019-02-27,0000943452,1999 (1869)
+479,WBA,Walgreens Boots Alliance,reports,Consumer Staples,Drug Retail,"Deerfield, Illinois",1979-12-31,0001618921,2014
+480,WMT,Walmart,reports,Consumer Staples,Hypermarkets & Super Centers,"Bentonville, Arkansas",1982-08-31,0000104169,1962
+481,WBD,Warner Bros. Discovery,reports,Communication Services,Broadcasting,"New York City, New York",2022-04-11,0001437107,2022
+482,WM,Waste Management,reports,Industrials,Environmental & Facilities Services,"Houston, Texas",,0000823768,1968
+483,WAT,Waters Corporation,reports,Health Care,Health Care Distributors,"Milford, Massachusetts",,0001000697,1958
+484,WEC,WEC Energy Group,reports,Utilities,Electric Utilities,"Milwaukee, Wisconsin",2008-10-31,0000783325,1896
+485,WFC,Wells Fargo,reports,Financials,Diversified Banks,"San Francisco, California",1976-06-30,0000072971,1852
+486,WELL,Welltower,reports,Real Estate,Health Care REITs,"Toledo, Ohio",2009-01-30,0000766704,1970
+487,WST,West Pharmaceutical Services,reports,Health Care,Health Care Supplies,"Exton, Pennsylvania",2020-05-22,0000105770,1923
+488,WDC,Western Digital,reports,Information Technology,"Technology Hardware, Storage & Peripherals","San Jose, California",2009-07-01,0000106040,1970
+489,WRK,WestRock,reports,Materials,Paper Packaging,"Atlanta, Georgia",,0001732845,2015
+490,WY,Weyerhaeuser,reports,Real Estate,Specialized REITs,"Seattle, Washington",,0000106535,1900
+491,WHR,Whirlpool Corporation,reports,Consumer Discretionary,Household Appliances,"Benton Harbor, Michigan",,0000106640,1911
+492,WMB,Williams Companies,reports,Energy,Oil & Gas Storage & Transportation,"Tulsa, Oklahoma",1975-03-31,0000107263,1908
+493,WTW,Willis Towers Watson,reports,Financials,Insurance Brokers,"London, United Kingdom",2016-01-05,0001140536,2016
+494,GWW,W. W. Grainger,reports,Industrials,Industrial Machinery,"Lake Forest, Illinois",1981-06-30,0000277135,1927
+495,WYNN,Wynn Resorts,reports,Consumer Discretionary,Casinos & Gaming,"Paradise, Nevada",2008-11-14,0001174922,2002
+496,XEL,Xcel Energy,reports,Utilities,Multi-Utilities,"Minneapolis, Minnesota",1957-03-04,0000072903,1909
+497,XYL,Xylem Inc.,reports,Industrials,Industrial Machinery,"White Plains, New York",2011-11-01,0001524472,2011
+498,YUM,Yum! Brands,reports,Consumer Discretionary,Restaurants,"Louisville, Kentucky",1997-10-06,0001041061,1997
+499,ZBRA,Zebra Technologies,reports,Information Technology,Electronic Equipment & Instruments,"Lincolnshire, Illinois",2019-12-23,0000877212,1969
+500,ZBH,Zimmer Biomet,reports,Health Care,Health Care Equipment,"Warsaw, Indiana",2001-08-07,0001136869,1927
+501,ZION,Zions Bancorporation,reports,Financials,Regional Banks,"Salt Lake City, Utah",2001-06-22,0000109380,1873
+502,ZTS,Zoetis,reports,Health Care,Pharmaceuticals,"Parsippany, New Jersey",2013-06-21,0001555280,1952
