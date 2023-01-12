@@ -1,4 +1,4 @@
-,Symbol,Security,SEC filings,GICS Sector,GICS Sub-Industry,Headquarters Location,Date first added,CIK,Founded
+,Symbol,Security,SEC filings,GICS Sector,GICS Sub-Industry,Headquarters Location,Date added,CIK,Founded
 0,MMM,3M,reports,Industrials,Industrial Conglomerates,"Saint Paul, Minnesota",1976-08-09,0000066740,1902
 1,AOS,A. O. Smith,reports,Industrials,Building Products,"Milwaukee, Wisconsin",2017-07-26,0000091142,1916
 2,ABT,Abbott,reports,Health Care,Health Care Equipment,"North Chicago, Illinois",1964-03-31,0000001800,1888
@@ -26,7 +26,7 @@
 24,MO,Altria,reports,Consumer Staples,Tobacco,"Richmond, Virginia",1957-03-04,0000764180,1985
 25,AMZN,Amazon,reports,Consumer Discretionary,Internet & Direct Marketing Retail,"Seattle, Washington",2005-11-18,0001018724,1994
 26,AMCR,Amcor,reports,Materials,Paper Packaging,"Warmley, Bristol, United Kingdom",2019-06-07,0001748790,2019 (1860)
-27,AMD,AMD,reports,Information Technology,Semiconductors,"Santa Clara, California",,0000002488,1969
+27,AMD,AMD,reports,Information Technology,Semiconductors,"Santa Clara, California",2017-03-20,0000002488,1969
 28,AEE,Ameren,reports,Utilities,Multi-Utilities,"St. Louis, Missouri",1991-09-19,0001002910,1902
 29,AAL,American Airlines Group,reports,Industrials,Airlines,"Fort Worth, Texas",2015-03-23,0000006201,1934
 30,AEP,American Electric Power,reports,Utilities,Electric Utilities,"Columbus, Ohio",1957-03-04,0000004904,1906
@@ -75,7 +75,7 @@
 73,BWA,BorgWarner,reports,Consumer Discretionary,Auto Parts & Equipment,"Auburn Hills, Michigan",2011-12-19,0000908255,1880
 74,BXP,Boston Properties,reports,Real Estate,Office REITs,"Boston, Massachusetts",2006-04-03,0001037540,1970
 75,BSX,Boston Scientific,reports,Health Care,Health Care Equipment,"Marlborough, Massachusetts",1995-02-24,0000885725,1979
-76,BMY,Bristol Myers Squibb,reports,Health Care,Health Care Distributors,"New York City, New York",1957-03-04,0000014272,1989
+76,BMY,Bristol Myers Squibb,reports,Health Care,Pharmaceuticals,"New York City, New York",1957-03-04,0000014272,1989 (1887)
 77,AVGO,Broadcom Inc.,reports,Information Technology,Semiconductors,"San Jose, California",2014-05-08,0001730168,1961
 78,BR,Broadridge Financial Solutions,reports,Information Technology,Data Processing & Outsourced Services,"Lake Success, New York",2018-06-18,0001383312,1962
 79,BRO,Brown & Brown,reports,Financials,Insurance Brokers,"Daytona Beach, Florida",2021-09-20,0000079282,1939
