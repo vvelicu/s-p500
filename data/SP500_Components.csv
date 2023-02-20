@@ -116,7 +116,7 @@
 114,CLX,Clorox,Consumer Staples,Household Products,"Oakland, California",1969-03-31,0000021076,1913
 115,CME,CME Group,Financials,Financial Exchanges & Data,"Chicago, Illinois",2006-08-11,0001156375,1848
 116,CMS,CMS Energy,Utilities,Multi-Utilities,"Jackson, Michigan",1999-05-03,0000811156,1886
-117,KO,The Coca-Cola Company,Consumer Staples,Soft Drinks,"Atlanta, Georgia",1957-03-04,0000021344,1886
+117,KO,Coca-Cola Company (The),Consumer Staples,Soft Drinks,"Atlanta, Georgia",1957-03-04,0000021344,1886
 118,CTSH,Cognizant,Information Technology,IT Consulting & Other Services,"Teaneck, New Jersey",2006-11-17,0001058290,1994
 119,CL,Colgate-Palmolive,Consumer Staples,Household Products,"New York City, New York",1957-03-04,0000021665,1806
 120,CMCSA,Comcast,Communication Services,Cable & Satellite,"Philadelphia, Pennsylvania",2002-11-19,0001166691,1963
@@ -180,7 +180,7 @@
 178,EQIX,Equinix,Real Estate,Specialized REITs,"Redwood City, California",2015-03-20,0001101239,1998
 179,EQR,Equity Residential,Real Estate,Residential REITs,"Chicago, Illinois",2001-12-03,0000906107,1969
 180,ESS,Essex Property Trust,Real Estate,Residential REITs,"San Mateo, California",2014-04-02,0000920522,1971
-181,EL,The Estée Lauder Companies,Consumer Staples,Personal Products,"New York City, New York",2006-01-05,0001001250,1946
+181,EL,Estée Lauder Companies (The),Consumer Staples,Personal Products,"New York City, New York",2006-01-05,0001001250,1946
 182,ETSY,Etsy,Consumer Discretionary,Internet & Direct Marketing Retail,"New York City, New York",2020-09-21,0001370637,2005
 183,RE,Everest Re,Financials,Reinsurance,"Hamilton, Bermuda",2017-06-19,0001095073,1973
 184,EVRG,Evergy,Utilities,Electric Utilities,"Kansas City, Missouri",2018-06-05,0001711269,1909
@@ -253,9 +253,9 @@
 251,IR,Ingersoll Rand,Industrials,Industrial Machinery,"Davidson, North Carolina",2020-03-03,0001699150,1859
 252,INTC,Intel,Information Technology,Semiconductors,"Santa Clara, California",1976-12-31,0000050863,1968
 253,ICE,Intercontinental Exchange,Financials,Financial Exchanges & Data,"Atlanta, Georgia",2007-09-26,0001571949,2000
-254,IP,International Paper,Materials,Paper Packaging,"Memphis, Tennessee",1957-03-04,0000051434,1898
-255,IPG,The Interpublic Group of Companies,Communication Services,Advertising,"New York City, New York",1992-10-01,0000051644,1961 (1930)
-256,IFF,International Flavors & Fragrances,Materials,Specialty Chemicals,"New York City, New York",1976-03-31,0000051253,1958 (1889)
+254,IFF,International Flavors & Fragrances,Materials,Specialty Chemicals,"New York City, New York",1976-03-31,0000051253,1958 (1889)
+255,IP,International Paper,Materials,Paper Packaging,"Memphis, Tennessee",1957-03-04,0000051434,1898
+256,IPG,Interpublic Group of Companies (The),Communication Services,Advertising,"New York City, New York",1992-10-01,0000051644,1961 (1930)
 257,INTU,Intuit,Information Technology,Application Software,"Mountain View, California",2000-12-05,0000896878,1983
 258,ISRG,Intuitive Surgical,Health Care,Health Care Equipment,"Sunnyvale, California",2008-06-02,0001035267,1995
 259,IVZ,Invesco,Financials,Asset Management & Custody Banks,"Atlanta, Georgia",2008-08-21,0000914208,1935
@@ -327,7 +327,7 @@
 325,MNST,Monster Beverage,Consumer Staples,Soft Drinks,"Corona, California",2012-06-28,0000865752,2012 (1935)
 326,MCO,Moody's Corporation,Financials,Financial Exchanges & Data,"New York City, New York",1998-07-01,0001059556,1909
 327,MS,Morgan Stanley,Financials,Investment Banking & Brokerage,"New York City, New York",1993-07-29,0000895421,1935
-328,MOS,The Mosaic Company,Materials,Fertilizers & Agricultural Chemicals,"Tampa, Florida",2011-09-26,0001285785,2004 (1865 / 1909)
+328,MOS,Mosaic Company (The),Materials,Fertilizers & Agricultural Chemicals,"Tampa, Florida",2011-09-26,0001285785,2004 (1865 / 1909)
 329,MSI,Motorola Solutions,Information Technology,Communications Equipment,"Chicago, Illinois",1957-03-04,0000068505,1928 (2011)
 330,MSCI,MSCI,Financials,Financial Exchanges & Data,"New York City, New York",2018-04-04,0001408198,1969
 331,NDAQ,"Nasdaq, Inc.",Financials,Financial Exchanges & Data,"New York City, New York",2008-10-22,0001120193,1971
@@ -419,7 +419,7 @@
 417,SBNY,Signature Bank,Financials,Regional Banks,"New York City, New York",2021-12-20,0001288784,2001
 418,SPG,Simon Property Group,Real Estate,Retail REITs,"Indianapolis, Indiana",2002-06-26,0001063761,2003
 419,SWKS,Skyworks Solutions,Information Technology,Semiconductors,"Irvine, California",2015-03-12,0000004127,2002
-420,SJM,The J.M. Smucker Company,Consumer Staples,Packaged Foods & Meats,"Orrville, Ohio",2008-11-06,0000091419,1897
+420,SJM,J.M. Smucker Company (The),Consumer Staples,Packaged Foods & Meats,"Orrville, Ohio",2008-11-06,0000091419,1897
 421,SNA,Snap-on,Industrials,Industrial Machinery,"Kenosha, Wisconsin",1982-09-30,0000091440,1920
 422,SEDG,SolarEdge,Information Technology,Semiconductor Equipment,"Herzliya, Israel",2021-12-20,0001419612,2006
 423,SO,Southern Company,Utilities,Electric Utilities,"Atlanta, Georgia",1957-03-04,0000092122,1945
@@ -452,7 +452,7 @@
 450,TSCO,Tractor Supply,Consumer Discretionary,Specialty Stores,"Brentwood, Tennessee",2014-01-24,0000916365,1938
 451,TT,Trane Technologies,Industrials,Building Products,"Dublin, Ireland",2010-11-17,0001466258,1871
 452,TDG,TransDigm Group,Industrials,Aerospace & Defense,"Cleveland, Ohio",2016-06-03,0001260221,1993
-453,TRV,The Travelers Companies,Financials,Property & Casualty Insurance,"New York City, New York",2002-08-21,0000086312,1853
+453,TRV,Travelers Companies (The),Financials,Property & Casualty Insurance,"New York City, New York",2002-08-21,0000086312,1853
 454,TRMB,Trimble Inc.,Information Technology,Electronic Equipment & Instruments,"Westminster, Colorado",2021-01-21,0000864749,1978
 455,TFC,Truist,Financials,Regional Banks,"Charlotte, North Carolina",1997-12-04,0000092230,1872
 456,TYL,Tyler Technologies,Information Technology,Application Software,"Plano, Texas",2020-06-22,0000860731,1966
