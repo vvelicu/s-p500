@@ -153,7 +153,7 @@
 151,DIS,Disney,Communication Services,Movies & Entertainment,"Burbank, California",1976-06-30,0001744489,1923
 152,DG,Dollar General,Consumer Discretionary,General Merchandise Stores,"Goodlettsville, Tennessee",2012-12-03,0000029534,1939
 153,DLTR,Dollar Tree,Consumer Discretionary,General Merchandise Stores,"Chesapeake, Virginia",2011-12-19,0000935703,1986
-154,D,Dominion Energy,Utilities,Electric Utilities,"Richmond, Virginia",2005-03-28,0000715957,1983
+154,D,Dominion Energy,Utilities,Electric Utilities,"Richmond, Virginia",,0000715957,1983
 155,DPZ,Domino's,Consumer Discretionary,Restaurants,"Ann Arbor, Michigan",2020-05-12,0001286681,1960
 156,DOV,Dover Corporation,Industrials,Industrial Machinery,"Downers Grove, Illinois",1985-10-31,0000029905,1955
 157,DOW,Dow Inc.,Materials,Commodity Chemicals,"Midland, Michigan",2019-04-01,0001751788,2019
@@ -407,7 +407,7 @@
 405,ROP,Roper Technologies,Information Technology,Electronic Equipment & Instruments,"Sarasota, Florida",2009-12-23,0000882835,1981
 406,ROST,Ross Stores,Consumer Discretionary,Apparel Retail,"Dublin, California",2009-12-21,0000745732,1982
 407,RCL,Royal Caribbean Group,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Miami, Florida",2014-12-05,0000884887,1997
-408,SPGI,S&P Global,Financials,Financial Exchanges & Data,"New York City, New York",2018-06-07,0000064040,1917
+408,SPGI,S&P Global,Financials,Financial Exchanges & Data,"New York City, New York",,0000064040,1917
 409,CRM,Salesforce,Information Technology,Application Software,"San Francisco, California",2008-09-15,0001108524,1999
 410,SBAC,SBA Communications,Real Estate,Specialized REITs,"Boca Raton, Florida",2017-09-01,0001034054,1989
 411,SLB,Schlumberger,Energy,Oil & Gas Equipment & Services,"Curaçao, Kingdom of the Netherlands",1965-03-31,0000087347,1926
