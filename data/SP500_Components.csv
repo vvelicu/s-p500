@@ -370,39 +370,39 @@
 368,PYPL,PayPal,Financials,Transaction & Payment Processing Services,"San Jose, California",2015-07-20,0001633917,1998
 369,PNR,Pentair,Industrials,Industrial Machinery & Supplies & Components,"Worsley, United Kingdom",2012-10-01,0000077360,1966
 370,PEP,PepsiCo,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,"Purchase, New York",1957-03-04,0000077476,1898
-371,PKI,PerkinElmer,Health Care,Health Care Equipment,"Waltham, Massachusetts",1985-05-31,0000031791,1937
-372,PFE,Pfizer,Health Care,Pharmaceuticals,"New York City, New York",1957-03-04,0000078003,1849
-373,PCG,PG&E Corporation,Utilities,Multi-Utilities,"San Francisco, California",2022-10-03,0001004980,1905
-374,PM,Philip Morris International,Consumer Staples,Tobacco,"New York City, New York",2008-03-31,0001413329,2008 (1847)
-375,PSX,Phillips 66,Energy,Oil & Gas Refining & Marketing,"Houston, Texas",2012-05-01,0001534701,2012 (1917)
-376,PNW,Pinnacle West,Utilities,Multi-Utilities,"Phoenix, Arizona",1999-10-04,0000764622,1985
-377,PXD,Pioneer Natural Resources,Energy,Oil & Gas Exploration & Production,"Irving, Texas",2008-09-24,0001038357,1997
-378,PNC,PNC Financial Services,Financials,Regional Banks,"Pittsburgh, Pennsylvania",1988-04-30,0000713676,1845
-379,POOL,Pool Corporation,Consumer Discretionary,Distributors,"Covington, Louisiana",2020-10-07,0000945841,1993
-380,PPG,PPG Industries,Materials,Specialty Chemicals,"Pittsburgh, Pennsylvania",1957-03-04,0000079879,1883
-381,PPL,PPL Corporation,Utilities,Electric Utilities,"Allentown, Pennsylvania",2001-10-01,0000922224,1920
-382,PFG,Principal Financial Group,Financials,Life & Health Insurance,"Des Moines, Iowa",2002-07-22,0001126328,1879
-383,PG,Procter & Gamble,Consumer Staples,Personal Care Products,"Cincinnati, Ohio",1957-03-04,0000080424,1837
-384,PGR,Progressive Corporation,Financials,Property & Casualty Insurance,"Mayfield Village, Ohio",1997-08-04,0000080661,1937
-385,PLD,Prologis,Real Estate,Industrial REITs,"San Francisco, California",2003-07-17,0001045609,1983
-386,PRU,Prudential Financial,Financials,Life & Health Insurance,"Newark, New Jersey",2002-07-22,0001137774,1875
-387,PEG,Public Service Enterprise Group,Utilities,Electric Utilities,"Newark, New Jersey",1957-03-04,0000788784,1903
-388,PTC,PTC,Information Technology,Application Software,"Boston, Massachusetts",2021-04-20,0000857005,1985
-389,PSA,Public Storage,Real Estate,Self-Storage REITs,"Glendale, California",2005-08-19,0001393311,1972
-390,PHM,PulteGroup,Consumer Discretionary,Homebuilding,"Atlanta, Georgia",1984-04-30,0000822416,1956
-391,QRVO,Qorvo,Information Technology,Semiconductors,"Greensboro, North Carolina",2015-06-11,0001604778,2015
-392,PWR,Quanta Services,Industrials,Construction & Engineering,"Houston, Texas",2009-07-01,0001050915,1997
-393,QCOM,Qualcomm,Information Technology,Semiconductors,"San Diego, California",1999-07-22,0000804328,1985
-394,DGX,Quest Diagnostics,Health Care,Health Care Services,"Secaucus, New Jersey",2002-12-12,0001022079,1967
-395,RL,Ralph Lauren Corporation,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","New York City, New York",2007-02-02,0001037038,1967
-396,RJF,Raymond James,Financials,Investment Banking & Brokerage,"St. Petersburg, Florida",2017-03-20,0000720005,1962
-397,RTX,Raytheon Technologies,Industrials,Aerospace & Defense,"Waltham, Massachusetts",1957-03-04,0000101829,1922
-398,O,Realty Income,Real Estate,Retail REITs,"San Diego, California",2015-04-07,0000726728,1969
-399,REG,Regency Centers,Real Estate,Retail REITs,"Jacksonville, Florida",2017-03-02,0000910606,1963
-400,REGN,Regeneron,Health Care,Biotechnology,"Tarrytown, New York",2013-05-01,0000872589,1988
-401,RF,Regions Financial Corporation,Financials,Regional Banks,"Birmingham, Alabama",1998-08-28,0001281761,1971
-402,RSG,Republic Services,Industrials,Environmental & Facilities Services,"Phoenix, Arizona",2008-12-05,0001060391,1998 (1981)
-403,RMD,ResMed,Health Care,Health Care Equipment,"San Diego, California",2017-07-26,0000943819,1989
+371,PFE,Pfizer,Health Care,Pharmaceuticals,"New York City, New York",1957-03-04,0000078003,1849
+372,PCG,PG&E Corporation,Utilities,Multi-Utilities,"San Francisco, California",2022-10-03,0001004980,1905
+373,PM,Philip Morris International,Consumer Staples,Tobacco,"New York City, New York",2008-03-31,0001413329,2008 (1847)
+374,PSX,Phillips 66,Energy,Oil & Gas Refining & Marketing,"Houston, Texas",2012-05-01,0001534701,2012 (1917)
+375,PNW,Pinnacle West,Utilities,Multi-Utilities,"Phoenix, Arizona",1999-10-04,0000764622,1985
+376,PXD,Pioneer Natural Resources,Energy,Oil & Gas Exploration & Production,"Irving, Texas",2008-09-24,0001038357,1997
+377,PNC,PNC Financial Services,Financials,Regional Banks,"Pittsburgh, Pennsylvania",1988-04-30,0000713676,1845
+378,POOL,Pool Corporation,Consumer Discretionary,Distributors,"Covington, Louisiana",2020-10-07,0000945841,1993
+379,PPG,PPG Industries,Materials,Specialty Chemicals,"Pittsburgh, Pennsylvania",1957-03-04,0000079879,1883
+380,PPL,PPL Corporation,Utilities,Electric Utilities,"Allentown, Pennsylvania",2001-10-01,0000922224,1920
+381,PFG,Principal Financial Group,Financials,Life & Health Insurance,"Des Moines, Iowa",2002-07-22,0001126328,1879
+382,PG,Procter & Gamble,Consumer Staples,Personal Care Products,"Cincinnati, Ohio",1957-03-04,0000080424,1837
+383,PGR,Progressive Corporation,Financials,Property & Casualty Insurance,"Mayfield Village, Ohio",1997-08-04,0000080661,1937
+384,PLD,Prologis,Real Estate,Industrial REITs,"San Francisco, California",2003-07-17,0001045609,1983
+385,PRU,Prudential Financial,Financials,Life & Health Insurance,"Newark, New Jersey",2002-07-22,0001137774,1875
+386,PEG,Public Service Enterprise Group,Utilities,Electric Utilities,"Newark, New Jersey",1957-03-04,0000788784,1903
+387,PTC,PTC,Information Technology,Application Software,"Boston, Massachusetts",2021-04-20,0000857005,1985
+388,PSA,Public Storage,Real Estate,Self-Storage REITs,"Glendale, California",2005-08-19,0001393311,1972
+389,PHM,PulteGroup,Consumer Discretionary,Homebuilding,"Atlanta, Georgia",1984-04-30,0000822416,1956
+390,QRVO,Qorvo,Information Technology,Semiconductors,"Greensboro, North Carolina",2015-06-11,0001604778,2015
+391,PWR,Quanta Services,Industrials,Construction & Engineering,"Houston, Texas",2009-07-01,0001050915,1997
+392,QCOM,Qualcomm,Information Technology,Semiconductors,"San Diego, California",1999-07-22,0000804328,1985
+393,DGX,Quest Diagnostics,Health Care,Health Care Services,"Secaucus, New Jersey",2002-12-12,0001022079,1967
+394,RL,Ralph Lauren Corporation,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","New York City, New York",2007-02-02,0001037038,1967
+395,RJF,Raymond James,Financials,Investment Banking & Brokerage,"St. Petersburg, Florida",2017-03-20,0000720005,1962
+396,RTX,Raytheon Technologies,Industrials,Aerospace & Defense,"Waltham, Massachusetts",1957-03-04,0000101829,1922
+397,O,Realty Income,Real Estate,Retail REITs,"San Diego, California",2015-04-07,0000726728,1969
+398,REG,Regency Centers,Real Estate,Retail REITs,"Jacksonville, Florida",2017-03-02,0000910606,1963
+399,REGN,Regeneron,Health Care,Biotechnology,"Tarrytown, New York",2013-05-01,0000872589,1988
+400,RF,Regions Financial Corporation,Financials,Regional Banks,"Birmingham, Alabama",1998-08-28,0001281761,1971
+401,RSG,Republic Services,Industrials,Environmental & Facilities Services,"Phoenix, Arizona",2008-12-05,0001060391,1998 (1981)
+402,RMD,ResMed,Health Care,Health Care Equipment,"San Diego, California",2017-07-26,0000943819,1989
+403,RVTY,Revvity,Health Care,Health Care Equipment,"Waltham, Massachusetts",1985-05-31,0000031791,1937
 404,RHI,Robert Half,Industrials,Human Resource & Employment Services,"Menlo Park, California",2000-12-05,0000315213,1948
 405,ROK,Rockwell Automation,Industrials,Electrical Components & Equipment,"Milwaukee, Wisconsin",,0001024478,1903
 406,ROL,"Rollins, Inc.",Industrials,Environmental & Facilities Services,"Atlanta, Georgia",2018-10-01,0000084839,1948
