@@ -51,7 +51,7 @@
 49,T,AT&T,Communication Services,Integrated Telecommunication Services,"Dallas, Texas",1983-11-30,0000732717,1983 (1885)
 50,ATO,Atmos Energy,Utilities,Gas Utilities,"Dallas, Texas",2019-02-15,0000731802,1906
 51,ADSK,Autodesk,Information Technology,Application Software,"San Francisco, California",1989-12-01,0000769397,1982
-52,AZO,AutoZone,Consumer Discretionary,Specialty Stores,"Memphis, Tennessee",1997-01-02,0000866787,1979
+52,AZO,AutoZone,Consumer Discretionary,Automotive Retail,"Memphis, Tennessee",1997-01-02,0000866787,1979
 53,AVB,AvalonBay Communities,Real Estate,Multi-Family Residential REITs,"Arlington, Virginia",2007-01-10,0000915912,1978
 54,AVY,Avery Dennison,Materials,Paper & Plastic Packaging Products & Materials,"Glendale, California",1987-12-31,0000008818,1990
 55,AXON,Axon Enterprise,Industrials,Aerospace & Defense,"Scottsdale, Arizona",2023-05-04,0001069183,1993
@@ -219,7 +219,7 @@
 217,GE,General Electric,Industrials,Industrial Conglomerates,"Boston, Massachusetts",1957-03-04,0000040545,1892
 218,GIS,General Mills,Consumer Staples,Packaged Foods & Meats,"Golden Valley, Minnesota",1957-03-04,0000040704,1856
 219,GM,General Motors,Consumer Discretionary,Automobile Manufacturers,"Detroit, Michigan",2013-06-06,0001467858,1908
-220,GPC,Genuine Parts Company,Consumer Discretionary,Specialty Stores,"Atlanta, Georgia",1973-12-31,0000040987,1925
+220,GPC,Genuine Parts Company,Consumer Discretionary,Automotive Parts & Equipment,"Atlanta, Georgia",1973-12-31,0000040987,1925
 221,GILD,Gilead Sciences,Health Care,Biotechnology,"Foster City, California",2004-07-01,0000882095,1987
 222,GL,Globe Life,Financials,Life & Health Insurance,"McKinney, Texas",1989-04-30,0000320335,1900
 223,GPN,Global Payments,Financials,Transaction & Payment Processing Services,"Atlanta, Georgia",2016-04-25,0001123360,2000
@@ -351,7 +351,7 @@
 349,NVDA,Nvidia,Information Technology,Semiconductors,"Santa Clara, California",2001-11-30,0001045810,1993
 350,NVR,"NVR, Inc.",Consumer Discretionary,Homebuilding,"Reston, Virginia",2019-09-26,0000906163,1980
 351,NXPI,NXP Semiconductors,Information Technology,Semiconductors,"Eindhoven, Netherlands",2021-03-22,0001413447,1953
-352,ORLY,O'Reilly Auto Parts,Consumer Discretionary,Specialty Stores,"Springfield, Missouri",2009-03-27,0000898173,1957
+352,ORLY,O'Reilly Auto Parts,Consumer Discretionary,Automotive Retail,"Springfield, Missouri",2009-03-27,0000898173,1957
 353,OXY,Occidental Petroleum,Energy,Oil & Gas Exploration & Production,"Houston, Texas",1957-03-04,0000797468,1920
 354,ODFL,Old Dominion,Industrials,Cargo Ground Transportation,"Thomasville, North Carolina",2019-12-09,0000878927,1934
 355,OMC,Omnicom Group,Communication Services,Advertising,"New York City, New York",1997-12-31,0000029989,1986
