@@ -63,7 +63,7 @@
 61,BAX,Baxter International,Health Care,Health Care Equipment,"Deerfield, Illinois",1972-09-30,0000010456,1931
 62,BDX,Becton Dickinson,Health Care,Health Care Equipment,"Franklin Lakes, New Jersey",1972-09-30,0000010795,1897
 63,WRB,Berkley,Financials,Property & Casualty Insurance,"Greenwich, Connecticut",2019-12-05,0000011544,1967
-64,BRK-B,Berkshire Hathaway,Financials,Multi-Sector Holdings,"Omaha, Nebraska",2010-02-16,0001067983,1839
+64,BRK.B,Berkshire Hathaway,Financials,Multi-Sector Holdings,"Omaha, Nebraska",2010-02-16,0001067983,1839
 65,BBY,Best Buy,Consumer Discretionary,Computer & Electronics Retail,"Richfield, Minnesota",1999-06-29,0000764478,1966
 66,BIO,Bio-Rad,Health Care,Life Sciences Tools & Services,"Hercules, California",2020-06-22,0000012208,1952
 67,TECH,Bio-Techne,Health Care,Life Sciences Tools & Services,"Minneapolis, Minnesota",2021-08-30,0000842023,1976
@@ -80,7 +80,7 @@
 78,AVGO,Broadcom Inc.,Information Technology,Semiconductors,"San Jose, California",2014-05-08,0001730168,1961
 79,BR,Broadridge Financial Solutions,Industrials,Data Processing & Outsourced Services,"Lake Success, New York",2018-06-18,0001383312,1962
 80,BRO,Brown & Brown,Financials,Insurance Brokers,"Daytona Beach, Florida",2021-09-20,0000079282,1939
-81,BF-B,Brown–Forman,Consumer Staples,Distillers & Vintners,"Louisville, Kentucky",1982-10-31,0000014693,1870
+81,BF.B,Brown–Forman,Consumer Staples,Distillers & Vintners,"Louisville, Kentucky",1982-10-31,0000014693,1870
 82,BG,Bunge Limited,Consumer Staples,Agricultural Products & Services,"Chesterfield, Missouri",2023-03-15,0001144519,1818
 83,CHRW,C.H. Robinson,Industrials,Air Freight & Logistics,"Eden Prairie, Minnesota",2007-03-02,0001043277,1905
 84,CDNS,Cadence Design Systems,Information Technology,Application Software,"San Jose, California",2017-09-18,0000813672,1988
@@ -101,7 +101,7 @@
 99,COR,Cencora,Health Care,Health Care Distributors,"Conshohocken, Pennsylvania",2001-08-30,0001140859,1985
 100,CNC,Centene Corporation,Health Care,Managed Health Care,"St. Louis, Missouri",2016-03-30,0001071739,1984
 101,CNP,CenterPoint Energy,Utilities,Multi-Utilities,"Houston, Texas",1985-07-31,0001130310,1882
-102,CDAY,Ceridian,Information Technology,Application Software,"Minneapolis, Minnesota",2021-09-20,0001725057,1992
+102,CDAY,Ceridian,Industrials,Human Resource & Employment Services,"Minneapolis, Minnesota",2021-09-20,0001725057,1992
 103,CF,CF Industries,Materials,Fertilizers & Agricultural Chemicals,"Deerfield, Illinois",2008-08-27,0001324404,1946
 104,CRL,Charles River Laboratories,Health Care,Life Sciences Tools & Services,"Wilmington, Massachusetts",2021-05-14,0001100682,1947
 105,SCHW,Charles Schwab Corporation,Financials,Investment Banking & Brokerage,"Westlake, Texas",1997-06-02,0000316709,1971
@@ -133,7 +133,7 @@
 131,CPRT,Copart,Industrials,Diversified Support Services,"Dallas, Texas",2018-07-02,0000900075,1982
 132,GLW,Corning Inc.,Information Technology,Electronic Components,"Corning, New York",1995-02-27,0000024741,1851
 133,CTVA,Corteva,Materials,Fertilizers & Agricultural Chemicals,"Indianapolis, Indiana",2019-06-03,0001755672,2019
-134,CSGP,CoStar Group,Industrials,Research & Consulting Services,"Washington, D.C.",2022-09-19,0001057352,1987
+134,CSGP,CoStar Group,Real Estate,Real Estate Services,"Washington, D.C.",2022-09-19,0001057352,1987
 135,COST,Costco,Consumer Staples,Consumer Staples Merchandise Retail,"Issaquah, Washington",1993-10-01,0000909832,1976
 136,CTRA,Coterra,Energy,Oil & Gas Exploration & Production,"Houston, Texas",2008-06-23,0000858470,2021 (1989)
 137,CCI,Crown Castle,Real Estate,Telecom Tower REITs,"Houston, Texas",2012-03-14,0001051470,1994
@@ -366,7 +366,7 @@
 364,PARA,Paramount Global,Communication Services,Movies & Entertainment,"New York City, New York",1994-09-30,0000813828,2019 (1952)
 365,PH,Parker Hannifin,Industrials,Industrial Machinery & Supplies & Components,"Cleveland, Ohio",1985-11-30,0000076334,1917
 366,PAYX,Paychex,Industrials,Human Resource & Employment Services,"Penfield, New York",1998-10-01,0000723531,1971
-367,PAYC,Paycom,Information Technology,Application Software,"Oklahoma City, Oklahoma",2020-01-28,0001590955,1998
+367,PAYC,Paycom,Industrials,Human Resource & Employment Services,"Oklahoma City, Oklahoma",2020-01-28,0001590955,1998
 368,PYPL,PayPal,Financials,Transaction & Payment Processing Services,"San Jose, California",2015-07-20,0001633917,1998
 369,PNR,Pentair,Industrials,Industrial Machinery & Supplies & Components,"Worsley, United Kingdom",2012-10-01,0000077360,1966
 370,PEP,PepsiCo,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,"Purchase, New York",1957-03-04,0000077476,1898
