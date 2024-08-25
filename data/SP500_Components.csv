@@ -9,7 +9,7 @@
 7,AES,AES Corporation,Utilities,Independent Power Producers & Energy Traders,"Arlington, Virginia",1998-10-02,0000874761,1981
 8,AFL,Aflac,Financials,Life & Health Insurance,"Columbus, Georgia",1999-05-28,0000004977,1955
 9,A,Agilent Technologies,Health Care,Life Sciences Tools & Services,"Santa Clara, California",2000-06-05,0001090872,1999
-10,APD,Air Products and Chemicals,Materials,Industrial Gases,"Allentown, Pennsylvania",1985-04-30,0000002969,1940
+10,APD,Air Products,Materials,Industrial Gases,"Allentown, Pennsylvania",1985-04-30,0000002969,1940
 11,ABNB,Airbnb,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","San Francisco, California",2023-09-18,0001559720,2008
 12,AKAM,Akamai Technologies,Information Technology,Internet Services & Infrastructure,"Cambridge, Massachusetts",2007-07-12,0001086222,1998
 13,ALB,Albemarle Corporation,Materials,Specialty Chemicals,"Charlotte, North Carolina",2016-07-01,0000915913,1994
@@ -57,17 +57,17 @@
 55,BKR,Baker Hughes,Energy,Oil & Gas Equipment & Services,"Houston, Texas",2017-07-07,0001701605,2017
 56,BALL,Ball Corporation,Materials,"Metal, Glass & Plastic Containers","Broomfield, Colorado",1984-10-31,0000009389,1880
 57,BAC,Bank of America,Financials,Diversified Banks,"Charlotte, North Carolina",1976-06-30,0000070858,1998 (1923 / 1874)
-58,BK,Bank of New York Mellon,Financials,Asset Management & Custody Banks,"New York City, New York",1995-03-31,0001390777,1784
+58,BK,BNY Mellon,Financials,Asset Management & Custody Banks,"New York City, New York",1995-03-31,0001390777,1784
 59,BBWI,"Bath & Body Works, Inc.",Consumer Discretionary,Other Specialty Retail,"Columbus, Ohio",1983-09-30,0000701985,1963
 60,BAX,Baxter International,Health Care,Health Care Equipment,"Deerfield, Illinois",1972-09-30,0000010456,1931
 61,BDX,Becton Dickinson,Health Care,Health Care Equipment,"Franklin Lakes, New Jersey",1972-09-30,0000010795,1897
 62,BRK.B,Berkshire Hathaway,Financials,Multi-Sector Holdings,"Omaha, Nebraska",2010-02-16,0001067983,1839
 63,BBY,Best Buy,Consumer Discretionary,Computer & Electronics Retail,"Richfield, Minnesota",1999-06-29,0000764478,1966
-64,BIO,Bio-Rad,Health Care,Life Sciences Tools & Services,"Hercules, California",2020-06-22,0000012208,1952
+64,BIO,Bio-Rad Laboratories,Health Care,Life Sciences Tools & Services,"Hercules, California",2020-06-22,0000012208,1952
 65,TECH,Bio-Techne,Health Care,Life Sciences Tools & Services,"Minneapolis, Minnesota",2021-08-30,0000842023,1976
 66,BIIB,Biogen,Health Care,Biotechnology,"Cambridge, Massachusetts",2003-11-13,0000875045,1978
 67,BLK,BlackRock,Financials,Asset Management & Custody Banks,"New York City, New York",2011-04-04,0001364742,1988
-68,BX,Blackstone,Financials,Asset Management & Custody Banks,"New York City, New York",2023-09-18,0001393818,1985
+68,BX,Blackstone Inc.,Financials,Asset Management & Custody Banks,"New York City, New York",2023-09-18,0001393818,1985
 69,BA,Boeing,Industrials,Aerospace & Defense,"Arlington, Virginia",1957-03-04,0000012927,1916
 70,BKNG,Booking Holdings,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Norwalk, Connecticut",2009-11-06,0001075531,1996
 71,BWA,BorgWarner,Consumer Discretionary,Automotive Parts & Equipment,"Auburn Hills, Michigan",2011-12-19,0000908255,1880
@@ -78,28 +78,28 @@
 76,BRO,Brown & Brown,Financials,Insurance Brokers,"Daytona Beach, Florida",2021-09-20,0000079282,1939
 77,BF.B,Brown–Forman,Consumer Staples,Distillers & Vintners,"Louisville, Kentucky",1982-10-31,0000014693,1870
 78,BLDR,Builders FirstSource,Industrials,Building Products,"Irving, Texas",2023-12-18,0001316835,1998
-79,BG,Bunge Global SA,Consumer Staples,Agricultural Products & Services,"Chesterfield, Missouri",2023-03-15,0001996862,1818
+79,BG,Bunge Global,Consumer Staples,Agricultural Products & Services,"Chesterfield, Missouri",2023-03-15,0001996862,1818
 80,BXP,"BXP, Inc.",Real Estate,Office REITs,"Boston, Massachusetts",2006-04-03,0001037540,1970
-81,CDNS,Cadence Design Systems,Information Technology,Application Software,"San Jose, California",2017-09-18,0000813672,1988
-82,CZR,Caesars Entertainment,Consumer Discretionary,Casinos & Gaming,"Reno, Nevada",2021-03-22,0001590895,1973
-83,CPT,Camden Property Trust,Real Estate,Multi-Family Residential REITs,"Houston, Texas",2022-04-04,0000906345,1981
-84,CPB,Campbell Soup Company,Consumer Staples,Packaged Foods & Meats,"Camden, New Jersey",1957-03-04,0000016732,1869
-85,COF,Capital One,Financials,Consumer Finance,"Tysons Corner, Virginia",1998-07-01,0000927628,1994
-86,CAH,Cardinal Health,Health Care,Health Care Distributors,"Dublin, Ohio",1997-05-27,0000721371,1971
-87,KMX,CarMax,Consumer Discretionary,Automotive Retail,"Richmond, Virginia",2010-06-28,0001170010,1993
-88,CCL,Carnival,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Miami, Florida",1998-12-22,0000815097,1972
-89,CARR,Carrier Global,Industrials,Building Products,"Palm Beach Gardens, Florida",2020-04-03,0001783180,"2020 (1915, United Technologies spinoff)"
-90,CTLT,Catalent,Health Care,Pharmaceuticals,"Somerset, New Jersey",2020-09-21,0001596783,2007
-91,CAT,Caterpillar Inc.,Industrials,Construction Machinery & Heavy Transportation Equipment,"Irving, Texas",1957-03-04,0000018230,1925
-92,CBOE,Cboe Global Markets,Financials,Financial Exchanges & Data,"Chicago, Illinois",2017-03-01,0001374310,1973
-93,CBRE,CBRE Group,Real Estate,Real Estate Services,"Dallas, Texas",2006-11-10,0001138118,1906
-94,CDW,CDW,Information Technology,Technology Distributors,"Vernon Hills, Illinois",2019-09-23,0001402057,1984
-95,CE,Celanese,Materials,Specialty Chemicals,"Irving, Texas",2018-12-24,0001306830,1918
-96,COR,Cencora,Health Care,Health Care Distributors,"Conshohocken, Pennsylvania",2001-08-30,0001140859,1985
-97,CNC,Centene Corporation,Health Care,Managed Health Care,"St. Louis, Missouri",2016-03-30,0001071739,1984
-98,CNP,CenterPoint Energy,Utilities,Multi-Utilities,"Houston, Texas",1985-07-31,0001130310,1882
-99,CF,CF Industries,Materials,Fertilizers & Agricultural Chemicals,"Deerfield, Illinois",2008-08-27,0001324404,1946
-100,CHRW,CH Robinson,Industrials,Air Freight & Logistics,"Eden Prairie, Minnesota",2007-03-02,0001043277,1905
+81,CHRW,C.H. Robinson,Industrials,Air Freight & Logistics,"Eden Prairie, Minnesota",2007-03-02,0001043277,1905
+82,CDNS,Cadence Design Systems,Information Technology,Application Software,"San Jose, California",2017-09-18,0000813672,1988
+83,CZR,Caesars Entertainment,Consumer Discretionary,Casinos & Gaming,"Reno, Nevada",2021-03-22,0001590895,1973
+84,CPT,Camden Property Trust,Real Estate,Multi-Family Residential REITs,"Houston, Texas",2022-04-04,0000906345,1981
+85,CPB,Campbell Soup Company,Consumer Staples,Packaged Foods & Meats,"Camden, New Jersey",1957-03-04,0000016732,1869
+86,COF,Capital One,Financials,Consumer Finance,"Tysons Corner, Virginia",1998-07-01,0000927628,1994
+87,CAH,Cardinal Health,Health Care,Health Care Distributors,"Dublin, Ohio",1997-05-27,0000721371,1971
+88,KMX,CarMax,Consumer Discretionary,Automotive Retail,"Richmond, Virginia",2010-06-28,0001170010,1993
+89,CCL,Carnival,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Miami, Florida",1998-12-22,0000815097,1972
+90,CARR,Carrier Global,Industrials,Building Products,"Palm Beach Gardens, Florida",2020-04-03,0001783180,"2020 (1915, United Technologies spinoff)"
+91,CTLT,Catalent,Health Care,Pharmaceuticals,"Somerset, New Jersey",2020-09-21,0001596783,2007
+92,CAT,Caterpillar Inc.,Industrials,Construction Machinery & Heavy Transportation Equipment,"Irving, Texas",1957-03-04,0000018230,1925
+93,CBOE,Cboe Global Markets,Financials,Financial Exchanges & Data,"Chicago, Illinois",2017-03-01,0001374310,1973
+94,CBRE,CBRE Group,Real Estate,Real Estate Services,"Dallas, Texas",2006-11-10,0001138118,1906
+95,CDW,CDW,Information Technology,Technology Distributors,"Vernon Hills, Illinois",2019-09-23,0001402057,1984
+96,CE,Celanese,Materials,Specialty Chemicals,"Irving, Texas",2018-12-24,0001306830,1918
+97,COR,Cencora,Health Care,Health Care Distributors,"Conshohocken, Pennsylvania",2001-08-30,0001140859,1985
+98,CNC,Centene Corporation,Health Care,Managed Health Care,"St. Louis, Missouri",2016-03-30,0001071739,1984
+99,CNP,CenterPoint Energy,Utilities,Multi-Utilities,"Houston, Texas",1985-07-31,0001130310,1882
+100,CF,CF Industries,Materials,Fertilizers & Agricultural Chemicals,"Deerfield, Illinois",2008-08-27,0001324404,1946
 101,CRL,Charles River Laboratories,Health Care,Life Sciences Tools & Services,"Wilmington, Massachusetts",2021-05-14,0001100682,1947
 102,SCHW,Charles Schwab Corporation,Financials,Investment Banking & Brokerage,"Westlake, Texas",1997-06-02,0000316709,1971
 103,CHTR,Charter Communications,Communication Services,Cable & Satellite,"Stamford, Connecticut",2016-09-08,0001091667,1993
