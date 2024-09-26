@@ -272,8 +272,8 @@
 270,K,Kellanova,Consumer Staples,Packaged Foods & Meats,"Chicago, Illinois",1989-09-11,0000055067,1906
 271,KVUE,Kenvue,Consumer Staples,Personal Care Products,"Skillman, New Jersey",2023-08-25,0001944048,2022 (Johnson & Johnson spinoff)
 272,KDP,Keurig Dr Pepper,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,"Burlington, Massachusetts",2022-06-21,0001418135,1981
-273,KEY,KeyBank,Financials,Regional Banks,"Cleveland, Ohio",1994-03-01,0000091576,1825
-274,KEYS,Keysight,Information Technology,Electronic Equipment & Instruments,"Santa Rosa, California",2018-11-06,0001601046,2014 (1939)
+273,KEY,KeyCorp,Financials,Regional Banks,"Cleveland, Ohio",1994-03-01,0000091576,1825
+274,KEYS,Keysight Technologies,Information Technology,Electronic Equipment & Instruments,"Santa Rosa, California",2018-11-06,0001601046,2014 (1939)
 275,KMB,Kimberly-Clark,Consumer Staples,Household Products,"Irving, Texas",1957-03-04,0000055785,1872
 276,KIM,Kimco Realty,Real Estate,Retail REITs,"Jericho, New York",2006-04-04,0000879101,1958
 277,KMI,Kinder Morgan,Energy,Oil & Gas Storage & Transportation,"Houston, Texas",2012-05-25,0001506307,1997
@@ -456,7 +456,7 @@
 454,TFC,Truist Financial,Financials,Regional Banks,"Charlotte, North Carolina",1997-12-04,0000092230,1872
 455,TYL,Tyler Technologies,Information Technology,Application Software,"Plano, Texas",2020-06-22,0000860731,1966
 456,TSN,Tyson Foods,Consumer Staples,Packaged Foods & Meats,"Springdale, Arkansas",2005-08-10,0000100493,1935
-457,USB,U.S. Bank,Financials,Diversified Banks,"Minneapolis, Minnesota",1999-11-01,0000036104,1968
+457,USB,U.S. Bancorp,Financials,Diversified Banks,"Minneapolis, Minnesota",1999-11-01,0000036104,1968
 458,UBER,Uber,Industrials,Passenger Ground Transportation,"San Francisco, California",2023-12-18,0001543151,2009
 459,UDR,"UDR, Inc.",Real Estate,Multi-Family Residential REITs,"Highlands Ranch, Colorado",2016-03-07,0000074208,1972
 460,ULTA,Ulta Beauty,Consumer Discretionary,Other Specialty Retail,"Bolingbrook, Illinois",2016-04-18,0001403568,1990
