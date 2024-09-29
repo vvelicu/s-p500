@@ -375,7 +375,7 @@
 373,PM,Philip Morris International,Consumer Staples,Tobacco,"New York City, New York",2008-03-31,0001413329,2008 (1847)
 374,PSX,Phillips 66,Energy,Oil & Gas Refining & Marketing,"Houston, Texas",2012-05-01,0001534701,2012 (1917)
 375,PNW,Pinnacle West,Utilities,Multi-Utilities,"Phoenix, Arizona",1999-10-04,0000764622,1985
-376,PNC,PNC Financial Services,Financials,Regional Banks,"Pittsburgh, Pennsylvania",1988-04-30,0000713676,1845
+376,PNC,PNC Financial Services,Financials,Diversified Banks,"Pittsburgh, Pennsylvania",1988-04-30,0000713676,1845
 377,POOL,Pool Corporation,Consumer Discretionary,Distributors,"Covington, Louisiana",2020-10-07,0000945841,1993
 378,PPG,PPG Industries,Materials,Specialty Chemicals,"Pittsburgh, Pennsylvania",1957-03-04,0000079879,1883
 379,PPL,PPL Corporation,Utilities,Electric Utilities,"Allentown, Pennsylvania",2001-10-01,0000922224,1920
@@ -397,7 +397,7 @@
 395,RTX,RTX Corporation,Industrials,Aerospace & Defense,"Waltham, Massachusetts",1957-03-04,0000101829,1922
 396,O,Realty Income,Real Estate,Retail REITs,"San Diego, California",2015-04-07,0000726728,1969
 397,REG,Regency Centers,Real Estate,Retail REITs,"Jacksonville, Florida",2017-03-02,0000910606,1963
-398,REGN,Regeneron,Health Care,Biotechnology,"Tarrytown, New York",2013-05-01,0000872589,1988
+398,REGN,Regeneron Pharmaceuticals,Health Care,Biotechnology,"Tarrytown, New York",2013-05-01,0000872589,1988
 399,RF,Regions Financial Corporation,Financials,Regional Banks,"Birmingham, Alabama",1998-08-28,0001281761,1971
 400,RSG,Republic Services,Industrials,Environmental & Facilities Services,"Phoenix, Arizona",2008-12-05,0001060391,1998 (1981)
 401,RMD,ResMed,Health Care,Health Care Equipment,"San Diego, California",2017-07-26,0000943819,1989
@@ -453,7 +453,7 @@
 451,TDG,TransDigm Group,Industrials,Aerospace & Defense,"Cleveland, Ohio",2016-06-03,0001260221,1993
 452,TRV,Travelers Companies (The),Financials,Property & Casualty Insurance,"New York City, New York",2002-08-21,0000086312,1853
 453,TRMB,Trimble Inc.,Information Technology,Electronic Equipment & Instruments,"Westminster, Colorado",2021-01-21,0000864749,1978
-454,TFC,Truist Financial,Financials,Regional Banks,"Charlotte, North Carolina",1997-12-04,0000092230,1872
+454,TFC,Truist Financial,Financials,Diversified Banks,"Charlotte, North Carolina",1997-12-04,0000092230,1872
 455,TYL,Tyler Technologies,Information Technology,Application Software,"Plano, Texas",2020-06-22,0000860731,1966
 456,TSN,Tyson Foods,Consumer Staples,Packaged Foods & Meats,"Springdale, Arkansas",2005-08-10,0000100493,1935
 457,USB,U.S. Bancorp,Financials,Diversified Banks,"Minneapolis, Minnesota",1999-11-01,0000036104,1968
@@ -470,13 +470,13 @@
 468,VTR,Ventas,Real Estate,Health Care REITs,"Chicago, Illinois",2009-03-04,0000740260,1998
 469,VLTO,Veralto,Industrials,Environmental & Facilities Services,"Waltham, Massachusetts",2023-10-02,0001967680,2023
 470,VRSN,Verisign,Information Technology,Internet Services & Infrastructure,"Dulles, Virginia",2006-02-01,0001014473,1995
-471,VRSK,Verisk,Industrials,Research & Consulting Services,"Jersey City, New Jersey",2015-10-08,0001442145,1971
+471,VRSK,Verisk Analytics,Industrials,Research & Consulting Services,"Jersey City, New Jersey",2015-10-08,0001442145,1971
 472,VZ,Verizon,Communication Services,Integrated Telecommunication Services,"New York City, New York",1983-11-30,0000732712,1983 (1877)
 473,VRTX,Vertex Pharmaceuticals,Health Care,Biotechnology,"Boston, Massachusetts",2013-09-23,0000875320,1989
 474,VTRS,Viatris,Health Care,Pharmaceuticals,"Pittsburgh, Pennsylvania",2004-04-23,0001792044,1961
 475,VICI,Vici Properties,Real Estate,Hotel & Resort REITs,"New York City, New York",2022-06-08,0001705696,2017
 476,V,Visa Inc.,Financials,Transaction & Payment Processing Services,"San Francisco, California",2009-12-21,0001403161,1958
-477,VST,Vistra,Utilities,Electric Utilities,"Irving, Texas",2024-05-08,0001692819,2016
+477,VST,Vistra Corp.,Utilities,Electric Utilities,"Irving, Texas",2024-05-08,0001692819,2016
 478,VMC,Vulcan Materials Company,Materials,Construction Materials,"Birmingham, Alabama",1999-06-30,0001396009,1909
 479,WRB,W. R. Berkley Corporation,Financials,Property & Casualty Insurance,"Greenwich, Connecticut",2019-12-05,0000011544,1967
 480,GWW,W. W. Grainger,Industrials,Industrial Machinery & Supplies & Components,"Lake Forest, Illinois",1981-06-30,0000277135,1927
