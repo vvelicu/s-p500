@@ -113,39 +113,39 @@
 111,CMS,CMS Energy,Utilities,Multi-Utilities,"Jackson, Michigan",1957-03-04,0000811156,1886
 112,KO,Coca-Cola Company (The),Consumer Staples,Soft Drinks & Non-alcoholic Beverages,"Atlanta, Georgia",1957-03-04,0000021344,1886
 113,CTSH,Cognizant,Information Technology,IT Consulting & Other Services,"Teaneck, New Jersey",2006-11-17,0001058290,1994
-114,CL,Colgate-Palmolive,Consumer Staples,Household Products,"New York City, New York",1957-03-04,0000021665,1806
-115,CMCSA,Comcast,Communication Services,Cable & Satellite,"Philadelphia, Pennsylvania",2002-11-19,0001166691,1963
-116,CAG,Conagra Brands,Consumer Staples,Packaged Foods & Meats,"Chicago, Illinois",1983-08-31,0000023217,1919
-117,COP,ConocoPhillips,Energy,Oil & Gas Exploration & Production,"Houston, Texas",1957-03-04,0001163165,2002
-118,ED,Consolidated Edison,Utilities,Multi-Utilities,"New York City, New York",1957-03-04,0001047862,1823
-119,STZ,Constellation Brands,Consumer Staples,Distillers & Vintners,"Rochester, New York",2005-07-01,0000016918,1945
-120,CEG,Constellation Energy,Utilities,Electric Utilities,"Baltimore, Maryland",2022-02-02,0001868275,1999
-121,COO,Cooper Companies (The),Health Care,Health Care Supplies,"San Ramon, California",2016-09-23,0000711404,1958
-122,CPRT,Copart,Industrials,Diversified Support Services,"Dallas, Texas",2018-07-02,0000900075,1982
-123,GLW,Corning Inc.,Information Technology,Electronic Components,"Corning, New York",1995-02-27,0000024741,1851
-124,CPAY,Corpay,Financials,Transaction & Payment Processing Services,"Atlanta, Georgia",2018-06-20,0001175454,2000
-125,CTVA,Corteva,Materials,Fertilizers & Agricultural Chemicals,"Indianapolis, Indiana",2019-06-03,0001755672,2019
-126,CSGP,CoStar Group,Real Estate,Real Estate Services,"Washington, D.C.",2022-09-19,0001057352,1987
-127,COST,Costco,Consumer Staples,Consumer Staples Merchandise Retail,"Issaquah, Washington",1993-10-01,0000909832,1976
-128,CTRA,Coterra,Energy,Oil & Gas Exploration & Production,"Houston, Texas",2008-06-23,0000858470,2021 (1989)
-129,CRWD,CrowdStrike,Information Technology,Systems Software,"Austin, Texas",2024-06-24,0001535527,2011
-130,CCI,Crown Castle,Real Estate,Telecom Tower REITs,"Houston, Texas",2012-03-14,0001051470,1994
-131,CSX,CSX Corporation,Industrials,Rail Transportation,"Jacksonville, Florida",1957-03-04,0000277948,1980
-132,CMI,Cummins,Industrials,Construction Machinery & Heavy Transportation Equipment,"Columbus, Indiana",1965-03-31,0000026172,1919
-133,CVS,CVS Health,Health Care,Health Care Services,"Woonsocket, Rhode Island",1957-03-04,0000064803,1996
-134,DHR,Danaher Corporation,Health Care,Life Sciences Tools & Services,"Washington, D.C.",1998-11-18,0000313616,1969
-135,DRI,Darden Restaurants,Consumer Discretionary,Restaurants,"Orlando, Florida",1995-05-31,0000940944,1938
-136,DVA,DaVita,Health Care,Health Care Services,"Denver, Colorado",2008-07-31,0000927066,1979
-137,DAY,Dayforce,Industrials,Human Resource & Employment Services,"Minneapolis, Minnesota",2021-09-20,0001725057,1992
-138,DECK,Deckers Brands,Consumer Discretionary,Footwear,"Goleta, California",2024-03-18,0000910521,1973
-139,DE,Deere & Company,Industrials,Agricultural & Farm Machinery,"Moline, Illinois",1957-03-04,0000315189,1837
-140,DELL,Dell Technologies,Information Technology,"Technology Hardware, Storage & Peripherals","Round Rock, Texas",2024-09-23,0001571996,2016
-141,DAL,Delta Air Lines,Industrials,Passenger Airlines,"Atlanta, Georgia",2013-09-11,0000027904,1929
-142,DVN,Devon Energy,Energy,Oil & Gas Exploration & Production,"Oklahoma City, Oklahoma",2000-08-30,0001090012,1971
-143,DXCM,Dexcom,Health Care,Health Care Equipment,"San Diego, California",2020-05-12,0001093557,1999
-144,FANG,Diamondback Energy,Energy,Oil & Gas Exploration & Production,"Midland, Texas",2018-12-03,0001539838,2007
-145,DLR,Digital Realty,Real Estate,Data Center REITs,"Austin, Texas",2016-05-18,0001297996,2004
-146,DFS,Discover Financial,Financials,Consumer Finance,"Riverwoods, Illinois",2007-07-02,0001393612,1985
+114,COIN,Coinbase,Financials,Financial Exchanges & Data,"New York City, New York",2025-05-19,0001679788,2012
+115,CL,Colgate-Palmolive,Consumer Staples,Household Products,"New York City, New York",1957-03-04,0000021665,1806
+116,CMCSA,Comcast,Communication Services,Cable & Satellite,"Philadelphia, Pennsylvania",2002-11-19,0001166691,1963
+117,CAG,Conagra Brands,Consumer Staples,Packaged Foods & Meats,"Chicago, Illinois",1983-08-31,0000023217,1919
+118,COP,ConocoPhillips,Energy,Oil & Gas Exploration & Production,"Houston, Texas",1957-03-04,0001163165,2002
+119,ED,Consolidated Edison,Utilities,Multi-Utilities,"New York City, New York",1957-03-04,0001047862,1823
+120,STZ,Constellation Brands,Consumer Staples,Distillers & Vintners,"Rochester, New York",2005-07-01,0000016918,1945
+121,CEG,Constellation Energy,Utilities,Electric Utilities,"Baltimore, Maryland",2022-02-02,0001868275,1999
+122,COO,Cooper Companies (The),Health Care,Health Care Supplies,"San Ramon, California",2016-09-23,0000711404,1958
+123,CPRT,Copart,Industrials,Diversified Support Services,"Dallas, Texas",2018-07-02,0000900075,1982
+124,GLW,Corning Inc.,Information Technology,Electronic Components,"Corning, New York",1995-02-27,0000024741,1851
+125,CPAY,Corpay,Financials,Transaction & Payment Processing Services,"Atlanta, Georgia",2018-06-20,0001175454,2000
+126,CTVA,Corteva,Materials,Fertilizers & Agricultural Chemicals,"Indianapolis, Indiana",2019-06-03,0001755672,2019
+127,CSGP,CoStar Group,Real Estate,Real Estate Services,"Washington, D.C.",2022-09-19,0001057352,1987
+128,COST,Costco,Consumer Staples,Consumer Staples Merchandise Retail,"Issaquah, Washington",1993-10-01,0000909832,1976
+129,CTRA,Coterra,Energy,Oil & Gas Exploration & Production,"Houston, Texas",2008-06-23,0000858470,2021 (1989)
+130,CRWD,CrowdStrike,Information Technology,Systems Software,"Austin, Texas",2024-06-24,0001535527,2011
+131,CCI,Crown Castle,Real Estate,Telecom Tower REITs,"Houston, Texas",2012-03-14,0001051470,1994
+132,CSX,CSX Corporation,Industrials,Rail Transportation,"Jacksonville, Florida",1957-03-04,0000277948,1980
+133,CMI,Cummins,Industrials,Construction Machinery & Heavy Transportation Equipment,"Columbus, Indiana",1965-03-31,0000026172,1919
+134,CVS,CVS Health,Health Care,Health Care Services,"Woonsocket, Rhode Island",1957-03-04,0000064803,1996
+135,DHR,Danaher Corporation,Health Care,Life Sciences Tools & Services,"Washington, D.C.",1998-11-18,0000313616,1969
+136,DRI,Darden Restaurants,Consumer Discretionary,Restaurants,"Orlando, Florida",1995-05-31,0000940944,1938
+137,DVA,DaVita,Health Care,Health Care Services,"Denver, Colorado",2008-07-31,0000927066,1979
+138,DAY,Dayforce,Industrials,Human Resource & Employment Services,"Minneapolis, Minnesota",2021-09-20,0001725057,1992
+139,DECK,Deckers Brands,Consumer Discretionary,Footwear,"Goleta, California",2024-03-18,0000910521,1973
+140,DE,Deere & Company,Industrials,Agricultural & Farm Machinery,"Moline, Illinois",1957-03-04,0000315189,1837
+141,DELL,Dell Technologies,Information Technology,"Technology Hardware, Storage & Peripherals","Round Rock, Texas",2024-09-23,0001571996,2016
+142,DAL,Delta Air Lines,Industrials,Passenger Airlines,"Atlanta, Georgia",2013-09-11,0000027904,1929
+143,DVN,Devon Energy,Energy,Oil & Gas Exploration & Production,"Oklahoma City, Oklahoma",2000-08-30,0001090012,1971
+144,DXCM,Dexcom,Health Care,Health Care Equipment,"San Diego, California",2020-05-12,0001093557,1999
+145,FANG,Diamondback Energy,Energy,Oil & Gas Exploration & Production,"Midland, Texas",2018-12-03,0001539838,2007
+146,DLR,Digital Realty,Real Estate,Data Center REITs,"Austin, Texas",2016-05-18,0001297996,2004
 147,DG,Dollar General,Consumer Staples,Consumer Staples Merchandise Retail,"Goodlettsville, Tennessee",2012-12-03,0000029534,1939
 148,DLTR,Dollar Tree,Consumer Staples,Consumer Staples Merchandise Retail,"Chesapeake, Virginia",2011-12-19,0000935703,1986
 149,D,Dominion Energy,Utilities,Multi-Utilities,"Richmond, Virginia",2016-11-30,0000715957,1983
